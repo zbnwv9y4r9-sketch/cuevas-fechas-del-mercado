@@ -1,5 +1,5 @@
 /* CUEVAS - Fechas del mercado — app estática.
-   Datos: data/paises.json (índice), data/paises/<codigo>.json (fechas por país), data/northbay.json (agenda interna).
+   Datos: paises.json (índice), <codigo>.json (fechas por país), northbay.json (agenda interna).
    Si la página trae window.APP_DATA (versión de un solo archivo), se usa eso en lugar de pedir los JSON. */
 (function(){
 'use strict';
@@ -33,11 +33,11 @@ const store = { index:null, paises:{}, northbay:[], actualizado:'' };
 async function getJSON(url){ const r = await fetch(url,{cache:'no-cache'}); if(!r.ok) throw new Error(url+' → '+r.status); return r.json(); }
 async function loadIndex(){
   if(window.APP_DATA){ const A=window.APP_DATA; store.index=A.index; store.paises=A.paises; store.northbay=A.northbay.eventos; store.actualizado=A.index.actualizado; return; }
-  const [idx, nb] = await Promise.all([getJSON('data/paises.json'), getJSON('data/northbay.json').catch(()=>({eventos:[]}))]);
+  const [idx, nb] = await Promise.all([getJSON('paises.json'), getJSON('northbay.json').catch(()=>({eventos:[]}))]);
   store.index=idx; store.northbay=nb.eventos||[]; store.actualizado=idx.actualizado;
 }
 async function loadCountry(c){
-  if(!store.paises[c]) store.paises[c] = await getJSON('data/paises/'+c+'.json');
+  if(!store.paises[c]) store.paises[c] = await getJSON(c+'.json');
   return store.paises[c];
 }
 

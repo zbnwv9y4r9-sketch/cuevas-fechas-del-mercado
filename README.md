@@ -6,15 +6,17 @@ Es una app web estática: no necesita servidor, base de datos ni instalación. S
 
 ## Estructura
 
+Todos los archivos van en la raíz del repositorio, sin carpetas:
+
 ```
 index.html                  Página principal
-css/app.css                 Estilos
-js/app.js                   Lógica de la app (filtros, calendario, PDF)
-js/vendor/pdf-lib.min.js    Generador de PDF (licencia MIT)
-data/paises.json            Lista de países
-data/paises/<código>.json   Fechas de cada país (pa, cr, gt, …)
-data/northbay.json          Agenda interna Northbay
-assets/                     Logo e íconos
+app.css                     Estilos
+app.js                      Lógica de la app (filtros, calendario, PDF)
+pdf-lib.min.js              Generador de PDF (licencia MIT)
+paises.json                 Lista de países
+<código>.json               Fechas de cada país (pa.json, cr.json, gt.json, …)
+northbay.json               Agenda interna Northbay
+logo.svg e icon-*.png       Logo e íconos
 manifest.webmanifest, sw.js Para instalarla como app y usarla sin conexión
 ```
 
@@ -23,29 +25,29 @@ manifest.webmanifest, sw.js Para instalarla como app y usarla sin conexión
 1. Crea una cuenta en https://github.com (si no tienes).
 2. Pulsa **New repository**. Nombre sugerido: `fechas-del-mercado`.
 3. Elige si será **Public** o **Private** (lee el aviso de privacidad más abajo) y pulsa **Create repository**.
-4. En el repositorio nuevo pulsa **uploading an existing file**, arrastra **todo el contenido** de esta carpeta (no la carpeta en sí: `index.html` debe quedar en la raíz) y pulsa **Commit changes**.
+4. En el repositorio nuevo pulsa **uploading an existing file**, arrastra **todos los archivos** de esta carpeta (deben quedar en la raíz del repositorio) y pulsa **Commit changes**.
 5. Ve a **Settings › Pages**. En **Source** elige **Deploy from a branch**, rama **main**, carpeta **/ (root)** y pulsa **Save**.
 6. En uno o dos minutos aparece el enlace, con la forma `https://<tu-usuario>.github.io/fechas-del-mercado/`. Ese es el enlace para compartir.
 
 Para instalarla como app: abre el enlace en el celular (Chrome en Android o Safari en iPhone) y elige **Agregar a pantalla de inicio**. En la computadora, Chrome o Edge muestran un ícono de **Instalar** en la barra de direcciones.
 
-> La app necesita abrirse desde el enlace (GitHub Pages). Si haces doble clic en `index.html` desde tu computadora, el navegador no deja leer los archivos de `data/` y no cargarán las fechas.
+> La app necesita abrirse desde el enlace (GitHub Pages). Si haces doble clic en `index.html` desde tu computadora, el navegador no deja leer los archivos `.json` y no cargarán las fechas.
 
 ## Aviso de privacidad (importante)
 
-`data/northbay.json` contiene información interna de Northbay.
+`northbay.json` contiene información interna de Northbay.
 
 - Un sitio de GitHub Pages es **público** aunque el repositorio sea privado, salvo en GitHub Enterprise Cloud con control de acceso. Cualquiera con el enlace podrá ver la agenda.
 - GitHub Pages desde un repositorio privado requiere un plan de pago (Pro, Team o Enterprise).
-- Si no quieres exponer la agenda interna, deja `data/northbay.json` con `"eventos": []` en la versión pública, o consulta con TI de Northbay una alternativa con acceso restringido (por ejemplo, Azure Static Web Apps o Cloudflare Pages con Access).
+- Si no quieres exponer la agenda interna, deja `northbay.json` con `"eventos": []` en la versión pública, o consulta con TI de Northbay una alternativa con acceso restringido (por ejemplo, Azure Static Web Apps o Cloudflare Pages con Access).
 
 ## Actualizar fechas
 
-Todo se edita en los archivos JSON de `data/`, directamente en GitHub: abre el archivo, pulsa el lápiz (**Edit this file**), cambia y pulsa **Commit changes**. La app publicada se actualiza en uno o dos minutos.
+Todo se edita en los archivos `.json`, directamente en GitHub: abre el archivo, pulsa el lápiz (**Edit this file**), cambia y pulsa **Commit changes**. La app publicada se actualiza en uno o dos minutos.
 
 ### Agregar una fecha de Northbay
 
-En `data/northbay.json`, copia un bloque dentro de `"eventos"` y cambia los datos:
+En `northbay.json`, copia un bloque dentro de `"eventos"` y cambia los datos:
 
 ```json
 {"inicio": "2027-02-15", "fin": null, "titulo": "Early Buy SP27", "detalle": "Sesión con cuentas clave", "paises": ["todos"]},
@@ -60,7 +62,7 @@ En `data/northbay.json`, copia un bloque dentro de `"eventos"` y cambia los dato
 
 ### Agregar o corregir una fecha de un país
 
-En `data/paises/<código>.json`, cada fecha tiene esta forma:
+En `<código>.json`, cada fecha tiene esta forma:
 
 ```json
 {"inicio": "2027-11-26", "cat": "comercio", "titulo": "Black Friday", "detalle": "Viernes", "fuente": "https://..."}
