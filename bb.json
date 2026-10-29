@@ -1,0 +1,326 @@
+{
+ "pais": "Barbados",
+ "codigo": "bb",
+ "region": "Caribe",
+ "eventos": [
+  {
+   "inicio": "2026-10-22",
+   "fin": "2026-10-23",
+   "cat": "escolar",
+   "titulo": "Receso de mitad del Término 1",
+   "detalle": "Sin clases jue–vie",
+   "fuente": "https://education.gov.bb/resources/school-calendars/"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; celebración menor",
+   "fuente": "https://www.timeanddate.com/holidays/barbados/2026"
+  },
+  {
+   "inicio": "2026-11-05",
+   "fin": "2026-11-08",
+   "cat": "comercio",
+   "titulo": "Barbados Food & Rum Festival",
+   "detalle": "Festival gastronómico; alto turismo",
+   "fuente": "https://www.travelagewest.com/Travel/Caribbean/caribbean-fall-2026-events"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Ventas en tiendas; mes de Independencia",
+   "fuente": "https://www.timeanddate.com/holidays/us/black-friday"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Coincide con Independencia (feriado)",
+   "fuente": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia (60 años)",
+   "detalle": "Lunes; 60.º aniversario, gran celebración",
+   "fuente": "https://labour.gov.bb/wp-content/uploads/2026/04/Public-Holidays-for-the-Year-2026.pdf"
+  },
+  {
+   "inicio": "2026-12-04",
+   "fin": "2026-12-06",
+   "cat": "deporte",
+   "titulo": "Run Barbados Marathon Weekend",
+   "detalle": "Bridgetown; 1 milla, 5K, 10K, 21K, 42K",
+   "fuente": "https://www.visitbarbados.org/runbarbados-marathon-weekend"
+  },
+  {
+   "inicio": "2026-12-10",
+   "cat": "escolar",
+   "titulo": "Fin del Término 1 (estudiantes)",
+   "detalle": "Vacaciones de Navidad 14–31 dic",
+   "fuente": "https://education.gov.bb/resources/school-calendars/"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Pico de compras navideñas",
+   "fuente": "https://www.timeanddate.com/holidays/barbados/2026"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado oficial (viernes)",
+   "fuente": "https://labour.gov.bb/wp-content/uploads/2026/04/Public-Holidays-for-the-Year-2026.pdf"
+  },
+  {
+   "inicio": "2026-12-26",
+   "cat": "feriado",
+   "titulo": "Boxing Day",
+   "detalle": "Feriado (sábado); sin traslado oficial",
+   "fuente": "https://labour.gov.bb/wp-content/uploads/2026/04/Public-Holidays-for-the-Year-2026.pdf"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Víspera de Año Nuevo; compras de fiesta",
+   "fuente": "https://www.timeanddate.com/holidays/barbados/2026"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Feriado nacional, viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-01-05",
+   "cat": "escolar",
+   "titulo": "Inicio Hilary Term (2.º trimestre)",
+   "detalle": "Estimado según 2026 (alumnos regresan martes)",
+   "confirmado": false,
+   "fuente": "https://barbadostoday.bb/2025/12/11/school-term-ends-today-as-students-begin-christmas-break/amp/"
+  },
+  {
+   "inicio": "2027-01-21",
+   "cat": "feriado",
+   "titulo": "Día de Errol Barrow",
+   "detalle": "Feriado nacional, jueves",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "San Valentín",
+   "detalle": "Domingo",
+   "fuente": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+  },
+  {
+   "inicio": "2027-02-18",
+   "fin": "2027-02-19",
+   "cat": "escolar",
+   "titulo": "Receso de medio trimestre",
+   "detalle": "Estimado según 2026 (jue–vie)",
+   "confirmado": false,
+   "fuente": "https://barbadostoday.bb/2025/04/17/back-to-pre-covid-calendar-when-new-school-year-begins/amp/"
+  },
+  {
+   "inicio": "2027-03-26",
+   "fin": "2027-04-09",
+   "cat": "escolar",
+   "titulo": "Receso de Pascua",
+   "detalle": "Estimado según patrón 2026 (2 semanas)",
+   "confirmado": false,
+   "fuente": "https://barbadostoday.bb/2025/04/17/back-to-pre-covid-calendar-when-new-school-year-begins/amp/"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo",
+   "detalle": "Feriado nacional",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-03-29",
+   "cat": "feriado",
+   "titulo": "Lunes de Pascua",
+   "detalle": "Feriado nacional",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-04-28",
+   "cat": "feriado",
+   "titulo": "Día de los Héroes Nacionales",
+   "detalle": "Feriado nacional, miércoles",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajo",
+   "detalle": "Sábado; ley solo traslada domingos",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de la Madre",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+  },
+  {
+   "inicio": "2027-05-17",
+   "cat": "feriado",
+   "titulo": "Lunes de Pentecostés",
+   "detalle": "Feriado nacional (Whit Monday)",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://en.wikipedia.org/wiki/Father%27s_Day"
+  },
+  {
+   "inicio": "2027-07-02",
+   "cat": "escolar",
+   "titulo": "Fin del año escolar",
+   "detalle": "Estimado según 2026; vacaciones jul–ago",
+   "confirmado": false,
+   "fuente": "https://barbadostoday.bb/2025/04/17/back-to-pre-covid-calendar-when-new-school-year-begins/amp/"
+  },
+  {
+   "inicio": "2027-07-03",
+   "fin": "2027-08-02",
+   "cat": "comercio",
+   "titulo": "Temporada Crop Over",
+   "detalle": "Fiestas y fetes; estimado según años previos",
+   "confirmado": false,
+   "fuente": "https://en.wikipedia.org/wiki/Crop_Over"
+  },
+  {
+   "inicio": "2027-08-01",
+   "cat": "feriado",
+   "titulo": "Día de la Emancipación",
+   "detalle": "Cae domingo; se observa el martes 3 ago",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-08-02",
+   "cat": "feriado",
+   "titulo": "Kadooment Day (Grand Kadooment)",
+   "detalle": "Primer lunes de agosto; cierre Crop Over",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-08-03",
+   "cat": "feriado",
+   "titulo": "Emancipación (día libre observado)",
+   "detalle": "Martes, por caer el 1 ago en domingo",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-08-09",
+   "fin": "2027-09-12",
+   "cat": "comercio",
+   "titulo": "Temporada regreso a clases",
+   "detalle": "Uniformes y calzado; estimado según 2025",
+   "confirmado": false,
+   "fuente": "https://barbadostoday.bb/2025/04/17/back-to-pre-covid-calendar-when-new-school-year-begins/amp/"
+  },
+  {
+   "inicio": "2027-09-13",
+   "cat": "escolar",
+   "titulo": "Inicio año escolar 2027-28",
+   "detalle": "Estimado según 2025 (lunes)",
+   "confirmado": false,
+   "fuente": "https://barbadostoday.bb/2025/04/17/back-to-pre-covid-calendar-when-new-school-year-begins/amp/"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://en.wikipedia.org/wiki/Halloween"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; ventas en tiendas de Bridgetown",
+   "fuente": "https://barbadostoday.bb/2023/11/25/bajans-turn-out-for-black-friday-sales"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas online",
+   "fuente": "https://en.wikipedia.org/wiki/Cyber_Monday"
+  },
+  {
+   "inicio": "2027-11-30",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Feriado nacional, martes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-12-03",
+   "fin": "2027-12-05",
+   "cat": "deporte",
+   "titulo": "Run Barbados Marathon Weekend",
+   "detalle": "Bridgetown; 42K, 21K, 10K, 5K. Est. según 2026",
+   "confirmado": false,
+   "fuente": "https://businessbarbados.com/event/run-barbados-marathon-an-wellness-weekend"
+  },
+  {
+   "inicio": "2027-12-10",
+   "cat": "escolar",
+   "titulo": "Fin 1.er trimestre (Michaelmas)",
+   "detalle": "Inicio vacaciones Navidad; estimado según 2025",
+   "confirmado": false,
+   "fuente": "https://barbadostoday.bb/2025/04/17/back-to-pre-covid-calendar-when-new-school-year-begins/amp/"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de compras navideñas",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Sábado; sin traslado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-12-26",
+   "cat": "feriado",
+   "titulo": "Boxing Day",
+   "detalle": "Cae domingo; se observa lunes 27 dic",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-12-27",
+   "cat": "feriado",
+   "titulo": "Boxing Day (día libre observado)",
+   "detalle": "Lunes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; víspera de Año Nuevo",
+   "fuente": "https://holidaydb.com/guides/public-holidays/barbados/2027"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

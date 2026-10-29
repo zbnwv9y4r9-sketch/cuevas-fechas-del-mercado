@@ -1,0 +1,316 @@
+{
+ "pais": "Trinidad y Tobago",
+ "codigo": "tt",
+ "region": "Caribe",
+ "eventos": [
+  {
+   "inicio": "2026-10-25",
+   "cat": "deporte",
+   "titulo": "UWI SPEC International Half Marathon",
+   "detalle": "St. Augustine; 21K y 5K",
+   "fuente": "https://www.sta.uwi.edu/spec/marathon/index.php"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; celebración menor",
+   "fuente": "https://www.timeanddate.com/holidays/trinidad/2026"
+  },
+  {
+   "inicio": "2026-11-08",
+   "cat": "comercio",
+   "titulo": "Divali (fecha del festival)",
+   "detalle": "Domingo; pico de compras previo (ropa, luces)",
+   "fuente": "https://www.officeholidays.com/holidays/trinidad-and-tobago/diwali"
+  },
+  {
+   "inicio": "2026-11-09",
+   "cat": "feriado",
+   "titulo": "Feriado de Divali (traslado a lunes)",
+   "detalle": "Tentativo; pendiente aviso legal del Gobierno",
+   "confirmado": false,
+   "fuente": "https://guardian.co.tt/news/five-long-weekends-in-2026-6.2.2480509.c2d18c0e89"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Ventas populares en tiendas y malls",
+   "fuente": "https://www.timeanddate.com/holidays/us/black-friday"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Ofertas en línea",
+   "fuente": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+   "inicio": "2026-12-11",
+   "cat": "escolar",
+   "titulo": "Fin del Término I escolar",
+   "detalle": "Inicio vacaciones de Navidad (según MoE)",
+   "fuente": "https://www.ttpublicholidays.com/school-calendar"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Pico de compras navideñas",
+   "fuente": "https://www.timeanddate.com/holidays/trinidad/2026"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado oficial (viernes)",
+   "fuente": "https://foreign.gov.tt/documents/1696/HC_Lon_2026_Holidays_INTERIMm.pdf"
+  },
+  {
+   "inicio": "2026-12-26",
+   "cat": "feriado",
+   "titulo": "Boxing Day",
+   "detalle": "Feriado (sábado); traslado no confirmado",
+   "fuente": "https://checkdatetime.com/holiday/trinidad-tobago-public-holidays-2026/"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año (Old Year's Night)",
+   "detalle": "Víspera de Año Nuevo; compras de fiesta",
+   "fuente": "https://www.timeanddate.com/holidays/trinidad/2026"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo (New Year's Day)",
+   "detalle": "Viernes",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-01-04",
+   "cat": "escolar",
+   "titulo": "Inicio Term II (aprox.)",
+   "detalle": "Estimado según 2026 (5 ene); MoE",
+   "confirmado": false,
+   "fuente": "https://newsday.co.tt/2025/08/11/education-ministry-new-term-schedule-will-provide-better-balance/"
+  },
+  {
+   "inicio": "2027-02-07",
+   "cat": "comercio",
+   "titulo": "Dimanche Gras",
+   "detalle": "Domingo; final de reyes y reinas",
+   "fuente": "https://riotimesonline.com/trinidad-carnival-2027-february-8-9-band-launches"
+  },
+  {
+   "inicio": "2027-02-08",
+   "fin": "2027-02-09",
+   "cat": "feriado",
+   "titulo": "Carnaval (Lunes y Martes)",
+   "detalle": "J'Ouvert lunes 8; libre de facto, no oficial",
+   "fuente": "https://riotimesonline.com/trinidad-carnival-2027-february-8-9-band-launches"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "San Valentín",
+   "detalle": "Domingo",
+   "fuente": "https://calendarific.com/holidays/2027/TT"
+  },
+  {
+   "inicio": "2027-03-10",
+   "cat": "feriado",
+   "titulo": "Eid ul-Fitr",
+   "detalle": "Miércoles; sujeto a avistamiento lunar",
+   "confirmado": false,
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-03-26",
+   "fin": "2027-04-11",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Pascua (aprox.)",
+   "detalle": "Estimado según 2026 (28 mar–12 abr)",
+   "confirmado": false,
+   "fuente": "https://newsday.co.tt/2025/08/11/education-ministry-new-term-schedule-will-provide-better-balance/"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo (Good Friday)",
+   "detalle": "Viernes",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-03-29",
+   "cat": "feriado",
+   "titulo": "Lunes de Pascua (Easter Monday)",
+   "detalle": "Lunes",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-03-30",
+   "cat": "feriado",
+   "titulo": "Spiritual Baptist Liberation Day",
+   "detalle": "Martes; fin de semana de 5 días",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de las Madres",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://calendarific.com/holidays/2027/TT"
+  },
+  {
+   "inicio": "2027-05-27",
+   "cat": "feriado",
+   "titulo": "Corpus Christi",
+   "detalle": "Jueves",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-05-31",
+   "cat": "feriado",
+   "titulo": "Indian Arrival Day (observado)",
+   "detalle": "30 may cae domingo; se observa lunes 31",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-06-19",
+   "cat": "feriado",
+   "titulo": "Labour Day",
+   "detalle": "Sábado",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://calendarific.com/holidays/2027/TT"
+  },
+  {
+   "inicio": "2027-07-09",
+   "cat": "escolar",
+   "titulo": "Fin Term III / año escolar (aprox.)",
+   "detalle": "Estimado según 2026 (10 jul)",
+   "confirmado": false,
+   "fuente": "https://newsday.co.tt/2025/08/11/education-ministry-new-term-schedule-will-provide-better-balance/"
+  },
+  {
+   "inicio": "2027-08-02",
+   "cat": "feriado",
+   "titulo": "Emancipation Day (observado)",
+   "detalle": "1 ago cae domingo; se observa lunes 2",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/trinidad_and_tobago.htm"
+  },
+  {
+   "inicio": "2027-08-02",
+   "fin": "2027-09-05",
+   "cat": "comercio",
+   "titulo": "Temporada back-to-school",
+   "detalle": "Calzado/uniformes; clases inician en sep",
+   "confirmado": false,
+   "fuente": "https://www.ttt.live/?p=168528"
+  },
+  {
+   "inicio": "2027-08-31",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Martes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/trinidad-tobago/2027"
+  },
+  {
+   "inicio": "2027-09-06",
+   "cat": "escolar",
+   "titulo": "Inicio año escolar 2027-2028 (aprox.)",
+   "detalle": "Estimado según 2026 (lun 7 sep)",
+   "confirmado": false,
+   "fuente": "https://www.ttt.live/?p=168528"
+  },
+  {
+   "inicio": "2027-09-24",
+   "cat": "feriado",
+   "titulo": "Día de la República (Republic Day)",
+   "detalle": "Viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/trinidad-tobago/2027"
+  },
+  {
+   "inicio": "2027-10-24",
+   "cat": "deporte",
+   "titulo": "UWI SPEC International Half Marathon",
+   "detalle": "21K/5K, St. Augustine; estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://www.sta.uwi.edu/spec/marathon/index.php"
+  },
+  {
+   "inicio": "2027-10-29",
+   "cat": "feriado",
+   "titulo": "Divali",
+   "detalle": "Viernes; fecha por confirmar por el Gobierno",
+   "confirmado": false,
+   "fuente": "https://www.officeholidays.com/holidays/trinidad-and-tobago/diwali"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://calendarific.com/holidays/2027/TT"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes",
+   "fuente": "https://calendarific.com/holidays/2027/TT"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas en línea",
+   "fuente": "https://calendarific.com/holidays/2027/TT"
+  },
+  {
+   "inicio": "2027-12-10",
+   "fin": "2027-12-31",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Navidad (aprox.)",
+   "detalle": "Estimado según 2025 (fin Term I 12 dic)",
+   "confirmado": false,
+   "fuente": "https://newsday.co.tt/2025/08/11/education-ministry-new-term-schedule-will-provide-better-balance/"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de compras navideñas",
+   "fuente": "https://calendarific.com/holidays/2027/TT"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad (Christmas Day)",
+   "detalle": "Sábado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/trinidad-tobago/2027"
+  },
+  {
+   "inicio": "2027-12-27",
+   "cat": "feriado",
+   "titulo": "Boxing Day (observado)",
+   "detalle": "26 dic cae domingo; se observa lunes 27",
+   "fuente": "https://holidaydb.com/guides/public-holidays/trinidad-tobago/2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año (Old Year's Night)",
+   "detalle": "Viernes",
+   "fuente": "https://calendarific.com/holidays/2027/TT"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

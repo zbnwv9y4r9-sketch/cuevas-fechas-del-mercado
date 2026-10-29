@@ -1,0 +1,318 @@
+{
+ "pais": "Venezuela",
+ "codigo": "ve",
+ "region": "Sudamérica",
+ "eventos": [
+  {
+   "inicio": "2026-10-12",
+   "cat": "feriado",
+   "titulo": "Día de la Resistencia Indígena",
+   "detalle": "Lunes; feriado nacional",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/este-es-el-calendario-bancario-para-venezuela-en-2026/"
+  },
+  {
+   "inicio": "2026-10-18",
+   "cat": "deporte",
+   "titulo": "4Elementos Caracas",
+   "detalle": "Caracas; distancias sin confirmar",
+   "confirmado": false,
+   "fuente": "https://www.retosvenezuela.com/eventos/"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; fecha comercial, no es feriado",
+   "fuente": "https://www.timeanddate.com/holidays/venezuela/2026"
+  },
+  {
+   "inicio": "2026-11-01",
+   "cat": "comercio",
+   "titulo": "Inicio oficial de la Navidad",
+   "detalle": "Decreto del Gobierno nacional (9 oct 2026)",
+   "fuente": "https://www.teleamazonas.com/actualidad/noticias/internacional/delcy-rodriguez-adelanta-navidad-venezuela-1-noviembre-130069/"
+  },
+  {
+   "inicio": "2026-11-15",
+   "cat": "deporte",
+   "titulo": "Ruta Bancaribe 2026",
+   "detalle": "Distancias y ciudad sin confirmar",
+   "confirmado": false,
+   "fuente": "https://www.retosvenezuela.com/eventos/"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Ofertas en comercios; adopción local menor",
+   "confirmado": false,
+   "fuente": "https://www.vozdeamerica.com/a/con-poca-afluencia-pese-a-las-ofertas-los-venezolanos-celebraron-su-propio-black-friday-/7369415.html"
+  },
+  {
+   "inicio": "2026-12-13",
+   "cat": "deporte",
+   "titulo": "Santa Corre",
+   "detalle": "Distancias y ciudad sin confirmar",
+   "confirmado": false,
+   "fuente": "https://www.retosvenezuela.com/eventos/"
+  },
+  {
+   "inicio": "2026-12-14",
+   "cat": "escolar",
+   "titulo": "Inicio vacaciones decembrinas",
+   "detalle": "Estudiantes; regreso a clases 11 ene 2027",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2026-12-15",
+   "cat": "pagos",
+   "titulo": "Límite anticipo utilidades",
+   "detalle": "Mín. 30 días de salario, 1.ª quincena dic (LOTTT)",
+   "fuente": "https://www.g-talent.net/blogs/recursos-humanos/utilidades-venezuela-2026-calculo-checklist-rrhh"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "feriado",
+   "titulo": "Nochebuena",
+   "detalle": "Jueves; feriado nacional",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/este-es-el-calendario-bancario-para-venezuela-en-2026/"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Viernes; feriado nacional",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/este-es-el-calendario-bancario-para-venezuela-en-2026/"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "feriado",
+   "titulo": "Fin de año",
+   "detalle": "Jueves; feriado nacional",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/este-es-el-calendario-bancario-para-venezuela-en-2026/"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Feriado nacional, viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-01-11",
+   "cat": "escolar",
+   "titulo": "Regreso a clases (2.º momento)",
+   "detalle": "Fin de vacaciones navideñas escolares",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-02-08",
+   "fin": "2027-02-09",
+   "cat": "feriado",
+   "titulo": "Carnaval",
+   "detalle": "Lunes y martes; también sin clases",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "Día del Amor y la Amistad",
+   "detalle": "San Valentín, domingo",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-02-21",
+   "cat": "deporte",
+   "titulo": "Maratón CAF Caracas",
+   "detalle": "42K y 21K; Caracas, domingo",
+   "fuente": "https://www.ntn24.com/noticias-actualidad/prueba-maraton-esperan-8-000-corredores-regresara-caracas-febrero-2027-esta-fecha-inicio-inscripciones-658657"
+  },
+  {
+   "inicio": "2027-02-28",
+   "cat": "pagos",
+   "titulo": "Límite pago utilidades ejercicio 2026",
+   "detalle": "Domingo; 2 meses tras cierre 31 dic (LOTTT)",
+   "fuente": "https://finiquitojusto.com/?p=10931"
+  },
+  {
+   "inicio": "2027-03-25",
+   "fin": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Jueves y Viernes Santo",
+   "detalle": "Feriados nacionales; asueto escolar",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-04-19",
+   "cat": "feriado",
+   "titulo": "Declaración de la Independencia",
+   "detalle": "19 de abril, lunes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajador",
+   "detalle": "Feriado nacional, sábado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de la Madre",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://www.bbva.com/es/celebran-venezolanos-dia-padre/"
+  },
+  {
+   "inicio": "2027-06-24",
+   "cat": "feriado",
+   "titulo": "Batalla de Carabobo",
+   "detalle": "Feriado nacional, jueves",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-07-01",
+   "fin": "2027-08-31",
+   "cat": "pagos",
+   "titulo": "Temporada de bono vacacional",
+   "detalle": "Se paga al salir de vacaciones (art. 192 LOTTT)",
+   "confirmado": false,
+   "fuente": "https://www.g-talent.net/blogs/finanzas-administracion/bono-vacacional-en-venezuela-2026-como-calcularlo"
+  },
+  {
+   "inicio": "2027-07-05",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Feriado nacional, lunes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-07-16",
+   "cat": "escolar",
+   "titulo": "Fin de clases año escolar 2026-27",
+   "detalle": "Cierre administrativo y vacaciones: 30 jul",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-07-18",
+   "cat": "comercio",
+   "titulo": "Día del Niño",
+   "detalle": "Tercer domingo de julio",
+   "fuente": "https://finanzasdigital.com/dia-del-nino/"
+  },
+  {
+   "inicio": "2027-07-24",
+   "cat": "feriado",
+   "titulo": "Natalicio del Libertador",
+   "detalle": "Feriado nacional, sábado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-07-30",
+   "fin": "2027-09-12",
+   "cat": "escolar",
+   "titulo": "Vacaciones escolares",
+   "detalle": "Del cierre (30 jul) al inicio estimado del nuevo año",
+   "confirmado": false,
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-08-16",
+   "fin": "2027-09-12",
+   "cat": "comercio",
+   "titulo": "Temporada de regreso a clases",
+   "detalle": "Útiles, uniformes y calzado; estimado",
+   "confirmado": false,
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-09-12",
+   "cat": "deporte",
+   "titulo": "Media Maratón de Maracaibo",
+   "detalle": "21K y 10K; estimado (se corre en septiembre)",
+   "confirmado": false,
+   "fuente": "https://lapatilla.com/2024/09/05/media-maraton-de-maracaibo-prevista-para-este-8sep-modifica-su-ruta/"
+  },
+  {
+   "inicio": "2027-09-13",
+   "cat": "escolar",
+   "titulo": "Inicio del año escolar 2027-2028",
+   "detalle": "Estimado según 2026 (inició lunes 14 sep)",
+   "confirmado": false,
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-10-12",
+   "cat": "feriado",
+   "titulo": "Día de la Resistencia Indígena",
+   "detalle": "Feriado nacional, martes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo; fecha comercial menor",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ofertas en línea",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-12-13",
+   "fin": "2028-01-09",
+   "cat": "escolar",
+   "titulo": "Vacaciones navideñas escolares",
+   "detalle": "Estimado según 2026 (desde 14 dic)",
+   "confirmado": false,
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/venezuela/regreso-a-clases-en-venezuela-sera-el-14-de-septiembre-asi-queda-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-12-15",
+   "cat": "pagos",
+   "titulo": "Bonificación de fin de año (utilidades)",
+   "detalle": "Mínimo 30 días; 1.ª quincena dic (art. 132 LOTTT)",
+   "fuente": "https://www.toptrabajos.com/ve/blog/pago-de-utilidades-y-bonificacion/"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "feriado",
+   "titulo": "Nochebuena",
+   "detalle": "Día feriado, viernes; pico de ventas",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado nacional, sábado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "feriado",
+   "titulo": "Fin de año",
+   "detalle": "Día feriado, viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/venezuela/2027"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

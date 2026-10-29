@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CUEVAS - Fechas del mercado">
+  <rect width="512" height="512" rx="112" fill="#14213D"/>
+  <!-- hoja de calendario -->
+  <rect x="104" y="128" width="304" height="272" rx="40" fill="#F5F3EE"/>
+  <path d="M104 168a40 40 0 0 1 40-40h224a40 40 0 0 1 40 40v32H104z" fill="#E8692E"/>
+  <!-- argollas -->
+  <rect x="168" y="92" width="32" height="76" rx="16" fill="#F5F3EE" stroke="#14213D" stroke-width="12"/>
+  <rect x="312" y="92" width="32" height="76" rx="16" fill="#F5F3EE" stroke="#14213D" stroke-width="12"/>
+  <!-- días -->
+  <g fill="#14213D">
+    <circle cx="176" cy="252" r="17"/><circle cx="256" cy="252" r="17"/><circle cx="336" cy="252" r="17"/>
+    <circle cx="176" cy="332" r="17"/><circle cx="256" cy="332" r="17"/>
+  </g>
+  <!-- la fecha importante: etiqueta de precio -->
+  <path d="M312 304h44l26 28-26 28h-44a8 8 0 0 1-8-8v-40a8 8 0 0 1 8-8z" fill="#E8692E"/>
+  <circle cx="350" cy="332" r="8" fill="#F5F3EE"/>
+</svg>

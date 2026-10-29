@@ -1,0 +1,343 @@
+{
+ "pais": "Nicaragua",
+ "codigo": "ni",
+ "region": "Centroamérica",
+ "eventos": [
+  {
+   "inicio": "2026-10-01",
+   "fin": "2026-10-31",
+   "cat": "deporte",
+   "titulo": "Carrera Rosa Yo Corro por Ellas",
+   "detalle": "Managua, 5K; Fundación Movicáncer; día sin confirmar",
+   "confirmado": false,
+   "fuente": "https://nicaraguarunning.com/carreras/"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; fecha comercial, no es feriado",
+   "fuente": "https://www.timeanddate.com/holidays/nicaragua/2026"
+  },
+  {
+   "inicio": "2026-11-01",
+   "fin": "2026-11-30",
+   "cat": "deporte",
+   "titulo": "MostaRun 42K San Juan del Sur",
+   "detalle": "San Juan del Sur; 5K/10K/21K/42K; día sin confirmar",
+   "confirmado": false,
+   "fuente": "https://nicaraguarunning.com/carreras/"
+  },
+  {
+   "inicio": "2026-11-08",
+   "cat": "feriado",
+   "titulo": "Natalicio de Carlos Fonseca Amador",
+   "detalle": "Feriado nacional nuevo (2026); cae domingo",
+   "fuente": "https://www.revistaeyn.com/centroamericaymundo/nicaragua-con-mas-descansos-en-el-ano-14-feriados-NE28979444"
+  },
+  {
+   "inicio": "2026-11-14",
+   "fin": "2026-11-26",
+   "cat": "escolar",
+   "titulo": "Exámenes finales IV corte (MINED)",
+   "detalle": "Cierre del ciclo escolar 2026",
+   "fuente": "https://www.tn8.ni/nacionales/examenes-festivales-y-promociones-asi-concluira-el-ciclo-escolar-2026/"
+  },
+  {
+   "inicio": "2026-11-15",
+   "cat": "deporte",
+   "titulo": "Media Maratón Desafío Runner",
+   "detalle": "Managua–Nindirí; 5K/10K/21K",
+   "fuente": "https://nicaraguarunning.com/carreras/"
+  },
+  {
+   "inicio": "2026-11-26",
+   "cat": "escolar",
+   "titulo": "Último día de clases (MINED)",
+   "detalle": "Festivales escolares; inicio de vacaciones",
+   "fuente": "https://www.tn8.ni/nacionales/examenes-festivales-y-promociones-asi-concluira-el-ciclo-escolar-2026/"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday (Viernes Negro)",
+   "detalle": "Ofertas en tiendas y centros comerciales",
+   "confirmado": false,
+   "fuente": "https://www.laprensa.hn/mundo/nicaraguenses-olvidan-a-otto-terremoto-y-tsunami-con-el-viernes-negro-EYLP1021041"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "escolar",
+   "titulo": "Entrega de boletines",
+   "detalle": "Resultados académicos a padres de familia",
+   "fuente": "https://www.tn8.ni/nacionales/examenes-festivales-y-promociones-asi-concluira-el-ciclo-escolar-2026/"
+  },
+  {
+   "inicio": "2026-12-02",
+   "fin": "2026-12-06",
+   "cat": "escolar",
+   "titulo": "Promociones escolares",
+   "detalle": "Graduaciones en centros públicos y privados",
+   "fuente": "https://www.tn8.ni/nacionales/examenes-festivales-y-promociones-asi-concluira-el-ciclo-escolar-2026/"
+  },
+  {
+   "inicio": "2026-12-08",
+   "cat": "feriado",
+   "titulo": "La Purísima (feriado nacional)",
+   "detalle": "feriado nacional (Gritería la noche del 7)",
+   "fuente": "https://www.jibble.io/es/recursos/feriados-nicaragua"
+  },
+  {
+   "inicio": "2026-12-10",
+   "cat": "pagos",
+   "titulo": "Límite pago aguinaldo (13.º mes)",
+   "detalle": "Primeros 10 días de diciembre (Código del Trabajo)",
+   "fuente": "https://finiquitojusto.com/?p=1656"
+  },
+  {
+   "inicio": "2026-12-13",
+   "cat": "deporte",
+   "titulo": "San Juan Race 2026",
+   "detalle": "San Juan del Sur; distancias por confirmar",
+   "fuente": "https://nicaraguarunning.com/carreras/"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Jueves; pico de compras, no es feriado oficial",
+   "fuente": "https://www.jibble.io/es/recursos/feriados-nicaragua"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Viernes; feriado nacional",
+   "fuente": "https://www.jibble.io/es/recursos/feriados-nicaragua"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Jueves; no es feriado oficial",
+   "fuente": "https://www.jibble.io/es/recursos/feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Feriado nacional, viernes",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-01-04",
+   "fin": "2027-01-24",
+   "cat": "comercio",
+   "titulo": "Temporada de regreso a clases",
+   "detalle": "Uniformes y calzado escolar; estimado",
+   "confirmado": false,
+   "fuente": "https://radiocamoapa.com/2025/12/10/mined-confirma-fechas-del-ano-escolar-2026/"
+  },
+  {
+   "inicio": "2027-01-18",
+   "cat": "feriado",
+   "titulo": "Natalicio de Rubén Darío",
+   "detalle": "Feriado nuevo (Ley 1272), lunes",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-01-25",
+   "cat": "escolar",
+   "titulo": "Inicio del año escolar 2027",
+   "detalle": "Estimado según 2026 (inició lunes 26 ene)",
+   "confirmado": false,
+   "fuente": "https://radiocamoapa.com/2025/12/10/mined-confirma-fechas-del-ano-escolar-2026/"
+  },
+  {
+   "inicio": "2027-02-02",
+   "cat": "feriado",
+   "titulo": "Día de la Reconciliación y la Paz",
+   "detalle": "Feriado nuevo (Ley 1272), martes",
+   "fuente": "https://www.revistaeyn.com/centroamericaymundo/nicaragua-con-mas-descansos-en-el-ano-14-feriados-NE28979444"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "Día del Amor y la Amistad",
+   "detalle": "San Valentín, domingo",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-02-21",
+   "cat": "feriado",
+   "titulo": "Homenaje a Augusto C. Sandino",
+   "detalle": "Feriado nuevo (Ley 1272), domingo",
+   "fuente": "https://www.revistaeyn.com/centroamericaymundo/nicaragua-con-mas-descansos-en-el-ano-14-feriados-NE28979444"
+  },
+  {
+   "inicio": "2027-03-05",
+   "fin": "2027-03-07",
+   "cat": "deporte",
+   "titulo": "Fuego y Agua Ultra (Ometepe)",
+   "detalle": "Trail 14K/28K, ultra 50K/100K; estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://newsinamerica.com/pdcc/turismo/2026/ultra-maraton-fuego-y-agua-vuelve-a-ometepe/"
+  },
+  {
+   "inicio": "2027-03-22",
+   "fin": "2027-03-26",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Semana Santa",
+   "detalle": "Receso escolar; estimado según patrón anual",
+   "confirmado": false,
+   "fuente": "https://radiocamoapa.com/2025/12/10/mined-confirma-fechas-del-ano-escolar-2026/"
+  },
+  {
+   "inicio": "2027-03-25",
+   "fin": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Jueves y Viernes Santo",
+   "detalle": "Feriados nacionales (25–26 mar)",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajador",
+   "detalle": "Feriado nacional, sábado",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-05-30",
+   "cat": "feriado",
+   "titulo": "Día de la Madre Nicaragüense",
+   "detalle": "Feriado nacional, domingo; fecha clave de ventas",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-06-01",
+   "cat": "comercio",
+   "titulo": "Día del Niño",
+   "detalle": "1 de junio, martes",
+   "fuente": "https://es.wikipedia.org/wiki/D%C3%ADa_del_Ni%C3%B1o"
+  },
+  {
+   "inicio": "2027-06-23",
+   "cat": "comercio",
+   "titulo": "Día del Padre Nicaragüense",
+   "detalle": "23 de junio por ley, miércoles",
+   "fuente": "https://nicaragua.justia.com/nacionales/leyes/ley-que-instituye-el-23-de-junio-de-cada-ano-dia-del-padre-nicaraguense-oct-9-2012/gdoc"
+  },
+  {
+   "inicio": "2027-07-05",
+   "fin": "2027-07-19",
+   "cat": "escolar",
+   "titulo": "Receso escolar de medio año",
+   "detalle": "Estimado según 2026 (6–20 jul)",
+   "confirmado": false,
+   "fuente": "https://www.laprensani.com/2026/06/29/nacionales/3725544-calendario-escolar-mined-desfiles-vacaciones"
+  },
+  {
+   "inicio": "2027-07-19",
+   "cat": "feriado",
+   "titulo": "Aniversario del 19 de Julio",
+   "detalle": "Feriado nacional, lunes",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-09-14",
+   "cat": "feriado",
+   "titulo": "Batalla de San Jacinto",
+   "detalle": "Feriado nacional, martes",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-09-15",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Feriado nacional, miércoles",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-09-16",
+   "fin": "2027-09-19",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Fiestas Patrias",
+   "detalle": "Estimado según 2026 (16–20 sep)",
+   "confirmado": false,
+   "fuente": "https://www.laprensani.com/2026/06/29/nacionales/3725544-calendario-escolar-mined-desfiles-vacaciones"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo; fecha comercial menor",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-11-08",
+   "cat": "feriado",
+   "titulo": "Aniversario de Carlos Fonseca Amador",
+   "detalle": "Feriado nuevo (Ley 1272), lunes",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "escolar",
+   "titulo": "Fin de clases (aprox.)",
+   "detalle": "Estimado: 4.º corte termina a fines de nov (2026)",
+   "confirmado": false,
+   "fuente": "https://radiocamoapa.com/2025/12/10/mined-confirma-fechas-del-ano-escolar-2026/"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ofertas en línea",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-12-08",
+   "cat": "feriado",
+   "titulo": "La Purísima (feriado nacional)",
+   "detalle": "La Gritería la noche del 7 dic",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-12-10",
+   "cat": "pagos",
+   "titulo": "Aguinaldo (décimo tercer mes)",
+   "detalle": "Fecha límite legal: 10 dic, viernes",
+   "fuente": "https://www.bloomberglinea.com/2025/12/02/paso-a-paso-para-calcular-el-aguinaldo-en-nicaragua-este-2025/"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de ventas navideñas",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado nacional, sábado",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; Nochevieja",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-nicaragua"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

@@ -1,0 +1,26 @@
+{
+ "actualizado": "2026-10-28",
+ "nota": "Agenda interna Northbay. Para agregar una fecha copia un bloque y cambia los datos. 'paises' puede ser [\"todos\"] o una lista de códigos, por ejemplo [\"pa\", \"cr\"].",
+ "eventos": [
+  {"inicio": "2026-10-01", "fin": "2026-10-31", "titulo": "Campaña Cinta Rosada y Celeste", "detalle": "Prevención del cáncer de mama y próstata", "paises": ["todos"]},
+  {"inicio": "2026-10-02", "fin": null, "titulo": "SAP · Cierre de migración", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-10-05", "fin": null, "titulo": "Early Buy Flyknit", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-10-06", "fin": "2026-10-08", "titulo": "Nike in Jamaica – MADE", "detalle": "", "nike": true, "paises": ["todos"]},
+  {"inicio": "2026-10-18", "fin": "2026-10-19", "titulo": "Feria de Chiriquí", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-10-19", "fin": null, "titulo": "FA27 Sales Download, Early Buy 1 y SAP UATT II", "detalle": "Día de la lucha contra el cáncer de mama", "paises": ["todos"]},
+  {"inicio": "2026-10-19", "fin": "2026-11-08", "titulo": "GTM FA27", "detalle": "Del 19 de octubre al 8 de noviembre", "paises": ["todos"]},
+  {"inicio": "2026-10-26", "fin": null, "titulo": "Dinner Experience Nike", "detalle": "FA27", "nike": true, "paises": ["todos"]},
+  {"inicio": "2026-10-27", "fin": "2026-10-28", "titulo": "FA27 NA – CAC, COL & VEN", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-10-28", "fin": null, "titulo": "FA27 NBHD · 10:00 a. m.", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-10-29", "fin": "2026-10-30", "titulo": "FA27 NA – Caribe", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-11-02", "fin": null, "titulo": "Early Buy 02", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-11-02", "fin": "2026-11-06", "titulo": "FA27 Working Sessions – SLA", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-11-04", "fin": "2026-11-05", "titulo": "Feria de Santa Marta (Colombia)", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-11-06", "fin": null, "titulo": "Comunicación de cierre GTM externo", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-11-08", "fin": null, "titulo": "Cierre GTM externo", "detalle": "Último día del GTM FA27", "paises": ["todos"]},
+  {"inicio": "2026-11-11", "fin": null, "titulo": "Cierre GTM interno", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-11-16", "fin": null, "titulo": "SAP · Presentación final", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2026-11-23", "fin": null, "titulo": "Early Buy 03 y capacitaciones SAP", "detalle": "", "paises": ["todos"]},
+  {"inicio": "2027-01-15", "fin": null, "titulo": "SAP Go-Live", "detalle": "Salida en vivo del nuevo SAP", "paises": ["todos"]}
+ ]
+}

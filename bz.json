@@ -1,0 +1,342 @@
+{
+ "pais": "Belice",
+ "codigo": "bz",
+ "region": "Centroamérica",
+ "eventos": [
+  {
+   "inicio": "2026-10-12",
+   "cat": "feriado",
+   "titulo": "Indigenous People's Resistance Day",
+   "detalle": "Lunes; feriado público y bancario",
+   "fuente": "https://www.pressoffice.gov.bz/?p=16750"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; celebración no oficial",
+   "confirmado": false,
+   "fuente": "https://calendarific.com/holidays/2026/BZ"
+  },
+  {
+   "inicio": "2026-11-19",
+   "cat": "feriado",
+   "titulo": "Garifuna Settlement Day",
+   "detalle": "Jueves; feriado nacional, fuerte en sur del país",
+   "fuente": "https://www.pressoffice.gov.bz/?p=16750"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; BCCI organizó ediciones previas",
+   "confirmado": false,
+   "fuente": "https://www.belize.org/events/black-friday/"
+  },
+  {
+   "inicio": "2026-11-29",
+   "cat": "deporte",
+   "titulo": "Belize City Marathon (Sweep)",
+   "detalle": "Belize City, 42K; reto internacional, cupo 20",
+   "fuente": "https://raceroster.com/events/2026/118623/belize-city-belize-marathon-11292026"
+  },
+  {
+   "inicio": "2026-12-01",
+   "fin": "2026-12-31",
+   "cat": "pagos",
+   "titulo": "Bono navideño (no obligatorio)",
+   "detalle": "Belice no exige aguinaldo; bono es voluntario",
+   "fuente": "https://www.safeguardglobal.com/country/belize/employee-benefits/"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Christmas Day",
+   "detalle": "Viernes; feriado público y bancario",
+   "fuente": "https://www.pressoffice.gov.bz/?p=16750"
+  },
+  {
+   "inicio": "2026-12-26",
+   "cat": "feriado",
+   "titulo": "Boxing Day",
+   "detalle": "Sábado; feriado público y bancario",
+   "fuente": "https://www.pressoffice.gov.bz/?p=16750"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de Año",
+   "detalle": "Jueves; no es feriado oficial",
+   "fuente": "https://www.pressoffice.gov.bz/?p=16750"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo (New Year's Day)",
+   "detalle": "Feriado; viernes",
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-01-15",
+   "cat": "feriado",
+   "titulo": "Día de George Price",
+   "detalle": "George Price Day; viernes",
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "San Valentín",
+   "detalle": "Domingo",
+   "fuente": "https://www.timeanddate.com/holidays/belize/valentine-day"
+  },
+  {
+   "inicio": "2027-03-08",
+   "cat": "feriado",
+   "titulo": "Día de Héroes y Benefactores",
+   "detalle": "9 mar es martes; se observa lunes 8",
+   "confirmado": false,
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-03-22",
+   "fin": "2027-04-02",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Semana Santa",
+   "detalle": "Estimado; calendario MoE 2026-27 no hallado",
+   "confirmado": false,
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-03-25",
+   "cat": "feriado",
+   "titulo": "Jueves Santo (medio día gobierno)",
+   "detalle": "Desde mediodía, solo sector público",
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo (Good Friday)",
+   "detalle": "Feriado",
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-03-27",
+   "cat": "deporte",
+   "titulo": "Cross Country Cycling Classic",
+   "detalle": "Ciclismo, Belize City–San Ignacio; Sábado Santo",
+   "fuente": "https://en.wikipedia.org/wiki/Cross_Country_Cycling_Classic"
+  },
+  {
+   "inicio": "2027-03-27",
+   "cat": "feriado",
+   "titulo": "Sábado Santo (Holy Saturday)",
+   "detalle": "Feriado",
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-03-29",
+   "cat": "feriado",
+   "titulo": "Lunes de Pascua (Easter Monday)",
+   "detalle": "Feriado",
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajo (Labour Day)",
+   "detalle": "Cae sábado; sin traslado (patrón 2026)",
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de la Madre",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://www.timeanddate.com/holidays/belize/mothers-day"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://www.timeanddate.com/holidays/belize/fathers-day"
+  },
+  {
+   "inicio": "2027-06-25",
+   "cat": "escolar",
+   "titulo": "Fin del año escolar 2026-27",
+   "detalle": "Estimado: finales de junio",
+   "confirmado": false,
+   "fuente": "https://qppstudio.net/publicholidays2027/belize.htm"
+  },
+  {
+   "inicio": "2027-08-01",
+   "cat": "feriado",
+   "titulo": "Día de la Emancipación",
+   "detalle": "Cae domingo",
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-08-02",
+   "cat": "feriado",
+   "titulo": "Emancipación (día libre)",
+   "detalle": "Traslado a lunes; falta comunicado oficial",
+   "confirmado": false,
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-08-14",
+   "fin": "2027-08-28",
+   "cat": "comercio",
+   "titulo": "Sábados sin GST regreso a clases",
+   "detalle": "Estimado (2026: 15 y 29 ago); calzado incluido",
+   "confirmado": false,
+   "fuente": "https://www.sanpedrosun.com/?p=126752"
+  },
+  {
+   "inicio": "2027-08-16",
+   "cat": "escolar",
+   "titulo": "Inicio de clases secundaria",
+   "detalle": "Estimado: mediados de agosto",
+   "confirmado": false,
+   "fuente": "https://amandala.com.bz/news/?p=347123"
+  },
+  {
+   "inicio": "2027-09-01",
+   "fin": "2027-09-21",
+   "cat": "comercio",
+   "titulo": "Celebraciones de Septiembre",
+   "detalle": "Mes patrio, 1–21 sept",
+   "fuente": "https://amandala.com.bz/news/?p=361622"
+  },
+  {
+   "inicio": "2027-09-04",
+   "cat": "comercio",
+   "titulo": "Carnaval: J'ouvert y Road March",
+   "detalle": "Belize City; estimado (2025: sáb. 6 sept)",
+   "confirmado": false,
+   "fuente": "https://amandala.com.bz/news/?p=361622"
+  },
+  {
+   "inicio": "2027-09-06",
+   "cat": "escolar",
+   "titulo": "Inicio de clases primaria",
+   "detalle": "Estimado: inicios de sept (2023: 4 sept)",
+   "confirmado": false,
+   "fuente": "https://amandala.com.bz/news/?p=347123"
+  },
+  {
+   "inicio": "2027-09-10",
+   "cat": "feriado",
+   "titulo": "Día de St. George's Caye",
+   "detalle": "Feriado; viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-09-21",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Feriado; martes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-09-26",
+   "cat": "deporte",
+   "titulo": "Media Maratón Belize City Council",
+   "detalle": "21K/10K/5K; estimado (2024: 29 sept)",
+   "confirmado": false,
+   "fuente": "https://amandala.com.bz/news/?p=355247"
+  },
+  {
+   "inicio": "2027-10-11",
+   "cat": "feriado",
+   "titulo": "Día de Resistencia Indígena",
+   "detalle": "12 oct es martes; se observa lunes 11",
+   "confirmado": false,
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://www.timeanddate.com/holidays/belize/halloween"
+  },
+  {
+   "inicio": "2027-11-19",
+   "cat": "feriado",
+   "titulo": "Día del Asentamiento Garífuna",
+   "detalle": "Feriado; viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes",
+   "fuente": "https://www.timeanddate.com/holidays/us/black-friday"
+  },
+  {
+   "inicio": "2027-11-28",
+   "cat": "deporte",
+   "titulo": "Belize City Marathon",
+   "detalle": "Central America Sweep; estimado (2026: 29 nov)",
+   "confirmado": false,
+   "fuente": "https://raceroster.com/events/2026/118623/belize-city-belize-marathon-11292026"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes",
+   "fuente": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+   "inicio": "2027-12-05",
+   "cat": "deporte",
+   "titulo": "End of the World Marathon",
+   "detalle": "42K/21K Placencia; estimado (2025: 7 dic)",
+   "confirmado": false,
+   "fuente": "https://chabilmarvillas.com/?p=74885"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes",
+   "fuente": "https://www.timeanddate.com/holidays/belize/christmas-eve"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Cae sábado; sin traslado (patrón 2026)",
+   "fuente": "https://www.pressoffice.gov.bz/wp-content/uploads/2025/11/Nov-6-PR218-25-Public-and-Bank-Holidays-2026.pdf"
+  },
+  {
+   "inicio": "2027-12-26",
+   "cat": "feriado",
+   "titulo": "Boxing Day",
+   "detalle": "Cae domingo",
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-12-27",
+   "cat": "feriado",
+   "titulo": "Boxing Day (día libre)",
+   "detalle": "Posible traslado a lunes; sin confirmar",
+   "confirmado": false,
+   "fuente": "https://holidaydb.com/guides/public-holidays/belize/2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes",
+   "fuente": "https://www.timeanddate.com/holidays/belize/new-year-eve"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

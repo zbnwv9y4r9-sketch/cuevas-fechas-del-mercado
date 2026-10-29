@@ -1,0 +1,16 @@
+{
+  "name": "CUEVAS - Fechas del mercado",
+  "short_name": "CUEVAS Fechas",
+  "description": "Calendario comercial por país: feriados, pagos, ventas, carreras, calendario escolar y agenda Northbay.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F3EE",
+  "theme_color": "#14213D",
+  "icons": [
+    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

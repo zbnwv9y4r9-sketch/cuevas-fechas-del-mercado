@@ -1,0 +1,567 @@
+{
+ "pais": "Panamá",
+ "codigo": "pa",
+ "region": "Centroamérica",
+ "eventos": [
+  {
+   "inicio": "2026-10-02",
+   "fin": "2026-10-04",
+   "cat": "comercio",
+   "titulo": "Panamá Black Weekend (8.ª edición)",
+   "detalle": "Hasta 70% de descuento; ventas de hasta +27%",
+   "fuente": "https://www.ecotvpanama.com/economia/panama-black-weekend-2026-deja-crecimiento-2710-y-mayor-presencia-turistas-n6094419"
+  },
+  {
+   "inicio": "2026-10-11",
+   "cat": "deporte",
+   "titulo": "Campeonato PAFRA (octubre)",
+   "detalle": "Clayton · 2K a 10K",
+   "fuente": "https://papaya25.info/calendario.php"
+  },
+  {
+   "inicio": "2026-10-11",
+   "cat": "deporte",
+   "titulo": "Carrera por la Esperanza (Soná)",
+   "detalle": "Anfiteatro de Soná, Veraguas · 5K",
+   "fuente": "https://www.panamarunners.com/"
+  },
+  {
+   "inicio": "2026-10-11",
+   "cat": "deporte",
+   "titulo": "Circuito City: Gamboa",
+   "detalle": "21K, 10K y 5K · kits en Nike Store Multiplaza",
+   "nike": true,
+   "fuente": "https://circuitocity.com/"
+  },
+  {
+   "inicio": "2026-10-15",
+   "cat": "pagos",
+   "titulo": "Pago de quincena",
+   "detalle": "Primer pico de efectivo tras el Black Weekend"
+  },
+  {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Preparativos de fiestas patrias",
+   "detalle": "Banderas, uniformes de banda, calzado y textiles"
+  },
+  {
+   "inicio": "2026-10-18",
+   "cat": "deporte",
+   "titulo": "5K Farmacia El Javillo (105 años)",
+   "detalle": "Cinta Costera · 5K",
+   "fuente": "https://carreraspanama.com/"
+  },
+  {
+   "inicio": "2026-10-18",
+   "cat": "deporte",
+   "titulo": "Carrera por la Esperanza",
+   "detalle": "Cinta Costera, Mirador del Pacífico",
+   "fuente": "https://papaya25.info/calendario.php"
+  },
+  {
+   "inicio": "2026-10-18",
+   "cat": "deporte",
+   "titulo": "Somos Libres 2026",
+   "detalle": "Panama Blue Hub, Veracruz",
+   "fuente": "https://papaya25.info/calendario.php"
+  },
+  {
+   "inicio": "2026-10-18",
+   "cat": "deporte",
+   "titulo": "Vikings Race",
+   "detalle": "Hacienda Country Club, Cerro Azul",
+   "fuente": "https://papaya25.info/calendario.php"
+  },
+  {
+   "inicio": "2026-10-24",
+   "cat": "deporte",
+   "titulo": "Trick or Treat Halloween",
+   "detalle": "Ciudad del Saber · 3K",
+   "fuente": "https://www.panamarunners.com/"
+  },
+  {
+   "inicio": "2026-10-25",
+   "cat": "deporte",
+   "titulo": "Tu Huella Vence al Cáncer",
+   "detalle": "Lugar y distancias por anunciar",
+   "fuente": "https://carreraspanama.com/"
+  },
+  {
+   "inicio": "2026-10-30",
+   "cat": "pagos",
+   "titulo": "Pago de quincena",
+   "detalle": "Antesala del fin de semana de Halloween"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Disfraces, dulces, decoración y eventos en malls"
+  },
+  {
+   "inicio": "2026-11-01",
+   "cat": "deporte",
+   "titulo": "Cerro Azul Trail Challenge",
+   "detalle": "Utivé, Pacora · trail",
+   "fuente": "https://papaya25.info/calendario.php"
+  },
+  {
+   "inicio": "2026-11-01",
+   "cat": "comercio",
+   "titulo": "Día del Niño y la Niña",
+   "detalle": "Juguetes, ropa infantil y planes familiares",
+   "fuente": "https://www.tvn-2.com/nacionales/dia-del-nino-y-la-nina-1-de-noviembre-regresa-publican-en-gaceta-oficial_1_2163563.html"
+  },
+  {
+   "inicio": "2026-11-02",
+   "cat": "escolar",
+   "titulo": "Día de los Difuntos",
+   "detalle": "Duelo nacional; posible ley seca según el distrito"
+  },
+  {
+   "inicio": "2026-11-03",
+   "cat": "feriado",
+   "titulo": "Separación de Panamá de Colombia",
+   "detalle": "Martes; feriado nacional",
+   "fuente": "https://www.telemetro.com/nacionales/cuantos-dias-libres-habra-noviembre-calendario-fiestas-patrias-n6093679"
+  },
+  {
+   "inicio": "2026-11-04",
+   "cat": "escolar",
+   "titulo": "Día de los Símbolos Patrios",
+   "detalle": "Desfiles y sin clases; no es feriado obligatorio",
+   "fuente": "https://www.telemetro.com/nacionales/cuantos-dias-libres-habra-noviembre-calendario-fiestas-patrias-n6093679"
+  },
+  {
+   "inicio": "2026-11-05",
+   "cat": "feriado",
+   "titulo": "Consolidación de la Separación (Colón)",
+   "detalle": "Jueves; feriado nacional",
+   "fuente": "https://www.telemetro.com/nacionales/cuantos-dias-libres-habra-noviembre-calendario-fiestas-patrias-n6093679"
+  },
+  {
+   "inicio": "2026-11-10",
+   "cat": "feriado",
+   "titulo": "Grito de Independencia (La Villa)",
+   "detalle": "Martes; posible puente con el lunes 9",
+   "fuente": "https://www.telemetro.com/nacionales/cuantos-dias-libres-habra-noviembre-calendario-fiestas-patrias-n6093679"
+  },
+  {
+   "inicio": "2026-11-13",
+   "cat": "pagos",
+   "titulo": "Pago de quincena",
+   "detalle": "El 15 cae domingo; suele pagarse el viernes 13"
+  },
+  {
+   "inicio": "2026-11-15",
+   "cat": "deporte",
+   "titulo": "Campeonato PAFRA (noviembre)",
+   "detalle": "Clayton · 2K a 10K",
+   "fuente": "https://papaya25.info/calendario.php"
+  },
+  {
+   "inicio": "2026-11-15",
+   "cat": "deporte",
+   "titulo": "Maratón Internacional de Panamá",
+   "detalle": "42K, 21K y 5K · salida Hotel Miramar",
+   "fuente": "https://www.panamaamerica.com.pa/deportes/maraton-internacional-de-panama-festeja-50-anos-1259716/amp"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Se junta con el feriado del 28 y la quincena del 30"
+  },
+  {
+   "inicio": "2026-11-28",
+   "cat": "feriado",
+   "titulo": "Independencia de Panamá de España",
+   "detalle": "Cae sábado; no se traslada al lunes",
+   "fuente": "https://www.telemetro.com/nacionales/cuantos-dias-libres-habra-noviembre-calendario-fiestas-patrias-n6093679"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday + quincena",
+   "detalle": "Ofertas en línea y pago de quincena"
+  },
+  {
+   "inicio": "2026-12-05",
+   "cat": "deporte",
+   "titulo": "Christmas Night Run",
+   "detalle": "Carreras Panamá · lugar por anunciar",
+   "fuente": "https://carreraspanama.com/"
+  },
+  {
+   "inicio": "2026-12-06",
+   "cat": "deporte",
+   "titulo": "Campeonato PAFRA (diciembre)",
+   "detalle": "Clayton · 2K a 10K",
+   "fuente": "https://papaya25.info/calendario.php"
+  },
+  {
+   "inicio": "2026-12-08",
+   "cat": "feriado",
+   "titulo": "Día de las Madres",
+   "detalle": "Feriado; pico de regalos: perfumes, ropa y calzado",
+   "fuente": "https://www.telemetro.com/nacionales/calendario-dias-festivos-panama-2026-conoce-los-feriados-y-dias-libres-n6065177"
+  },
+  {
+   "inicio": "2026-12-11",
+   "cat": "escolar",
+   "titulo": "Fin de clases (MEDUCA)",
+   "detalle": "Último día del tercer trimestre",
+   "fuente": "https://www.laestrella.com.pa/panama/informacion-util/meduca-establece-calendario-escolar-2026-las-clases-inician-el-2-de-marzo-FD19835257"
+  },
+  {
+   "inicio": "2026-12-13",
+   "cat": "deporte",
+   "titulo": "Carrera Navideña Penonomé",
+   "detalle": "El Retorno, Coclé · 5K, 1K y 0.5K",
+   "fuente": "https://www.panamarunners.com/"
+  },
+  {
+   "inicio": "2026-12-14",
+   "fin": "2026-12-18",
+   "cat": "escolar",
+   "titulo": "Semana de balance y graduaciones",
+   "detalle": "Cierre del año escolar 2026",
+   "fuente": "https://www.laestrella.com.pa/panama/informacion-util/meduca-establece-calendario-escolar-2026-las-clases-inician-el-2-de-marzo-FD19835257"
+  },
+  {
+   "inicio": "2026-12-15",
+   "cat": "pagos",
+   "titulo": "Décimo tercer mes (3.ª partida) + quincena",
+   "detalle": "Sector privado; público según anuncio del MEF",
+   "fuente": "https://finiquitojusto.com/derechos-laborales/decimo-tercer-mes-panama/"
+  },
+  {
+   "inicio": "2026-12-19",
+   "cat": "deporte",
+   "titulo": "Christmas Night Run Jamón & Pavo",
+   "detalle": "Cinta Costera 3 · 5K y 1K",
+   "fuente": "https://www.panamarunners.com/"
+  },
+  {
+   "inicio": "2026-12-19",
+   "cat": "escolar",
+   "titulo": "Inicio de vacaciones escolares",
+   "detalle": "Hasta el inicio del año escolar 2027"
+  },
+  {
+   "inicio": "2026-12-21",
+   "cat": "feriado",
+   "titulo": "Día de los Caídos (traslado del 20)",
+   "detalle": "El 20 cae domingo; día libre el lunes 21",
+   "fuente": "https://www.telemetro.com/nacionales/calendario-dias-festivos-panama-2026-conoce-los-feriados-y-dias-libres-n6065177"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Compras de última hora"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Viernes; feriado nacional"
+  },
+  {
+   "inicio": "2026-12-30",
+   "cat": "pagos",
+   "titulo": "Pago de quincena",
+   "detalle": "Antesala de fin de año"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Ropa, licores y fiestas; 1 de enero es feriado"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Feriado nacional; viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-01-06",
+   "fin": "2027-01-17",
+   "cat": "comercio",
+   "titulo": "Feria de las Flores y el Café (Boquete)",
+   "detalle": "Estimado según 2026 (7–18 ene); Chiriquí",
+   "confirmado": false,
+   "fuente": "https://www.laestrella.com.pa/vida-y-cultura/cultura/boquete-celebrara-la-feria-de-las-flores-y-del-cafe-del-7-al-18-de-enero-MO18705494"
+  },
+  {
+   "inicio": "2027-01-09",
+   "cat": "feriado",
+   "titulo": "Día de los Mártires",
+   "detalle": "Feriado nacional; cae sábado, no se traslada",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-02-06",
+   "fin": "2027-02-09",
+   "cat": "feriado",
+   "titulo": "Carnaval",
+   "detalle": "Sáb–mar; martes 9 feriado legal, lunes libre bancos",
+   "fuente": "https://qppstudio.net/publicholidays2027/panama.htm"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "San Valentín",
+   "detalle": "Día del Amor y la Amistad; domingo",
+   "fuente": "https://www.timeanddate.com/holidays/panama/valentine-day"
+  },
+  {
+   "inicio": "2027-02-22",
+   "fin": "2027-02-26",
+   "cat": "escolar",
+   "titulo": "Semana de organización MEDUCA",
+   "detalle": "Docentes regresan; Decreto Ejecutivo 43",
+   "fuente": "https://www.laestrella.com.pa/panama/nacional/calendario-escolar-2027-cambia-clases-iniciaran-el-1-de-marzo-AE24643517"
+  },
+  {
+   "inicio": "2027-03-01",
+   "cat": "escolar",
+   "titulo": "Inicio de clases MEDUCA 2027",
+   "detalle": "Lunes; temporada escolar fuerte feb",
+   "fuente": "https://www.laestrella.com.pa/panama/nacional/calendario-escolar-2027-cambia-clases-iniciaran-el-1-de-marzo-AE24643517"
+  },
+  {
+   "inicio": "2027-03-11",
+   "fin": "2027-03-21",
+   "cat": "comercio",
+   "titulo": "Feria Internacional de David",
+   "detalle": "Estimado según 2026 (12–22 mar); Chiriquí",
+   "confirmado": false,
+   "fuente": "https://newsroompanama.com/?p=78459"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo",
+   "detalle": "Feriado nacional; Jueves Santo 25 medio día banca",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-04-06",
+   "fin": "2027-04-08",
+   "cat": "comercio",
+   "titulo": "Expocomer 2027",
+   "detalle": "CCIAP, Centro de Convenciones de Amador",
+   "fuente": "https://www.prensa-latina.cu/2026/07/16/panama-alista-principales-ferias-comerciales-de-2027/"
+  },
+  {
+   "inicio": "2027-04-15",
+   "cat": "pagos",
+   "titulo": "Décimo tercer mes: 1.ª partida",
+   "detalle": "Fecha límite; jueves (dic 2026–mar 2027)",
+   "fuente": "https://softland.com/pa/decimo-tercer-mes-panama-guia/"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajador",
+   "detalle": "Feriado nacional; cae sábado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-05-31",
+   "fin": "2027-06-04",
+   "cat": "escolar",
+   "titulo": "Primer receso escolar MEDUCA",
+   "detalle": "Fin 1.er trimestre el 28 de mayo",
+   "fuente": "https://www.laestrella.com.pa/panama/nacional/calendario-escolar-2027-cambia-clases-iniciaran-el-1-de-marzo-AE24643517"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://www.timeanddate.com/holidays/panama/fathers-day"
+  },
+  {
+   "inicio": "2027-08-15",
+   "cat": "pagos",
+   "titulo": "Décimo tercer mes: 2.ª partida",
+   "detalle": "Fecha límite; cae domingo (abr–jul)",
+   "fuente": "https://softland.com/pa/decimo-tercer-mes-panama-guia/"
+  },
+  {
+   "inicio": "2027-08-15",
+   "cat": "feriado",
+   "titulo": "Fundación de Panamá (solo capital)",
+   "detalle": "Distrito de Panamá; domingo, traslado sin confirmar",
+   "confirmado": false,
+   "fuente": "https://qppstudio.net/publicholidays2027/panama.htm"
+  },
+  {
+   "inicio": "2027-08-30",
+   "fin": "2027-09-03",
+   "cat": "escolar",
+   "titulo": "Segundo receso escolar MEDUCA",
+   "detalle": "Fin 2.º trimestre el 27 de agosto",
+   "fuente": "https://www.laestrella.com.pa/panama/nacional/calendario-escolar-2027-cambia-clases-iniciaran-el-1-de-marzo-AE24643517"
+  },
+  {
+   "inicio": "2027-09-19",
+   "cat": "deporte",
+   "titulo": "Panama City Marathon",
+   "detalle": "42K/21K/10K/5K, ATLAPA; estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://www.telemetro.com/nacionales/panama-city-marathon-2026-anuncian-cierres-viales-este-domingo-20-septiembre-n6092258"
+  },
+  {
+   "inicio": "2027-10-01",
+   "fin": "2027-10-03",
+   "cat": "comercio",
+   "titulo": "Panama Black Weekend",
+   "detalle": "Estimado: 1.er fin de semana oct (2026: 2–4)",
+   "confirmado": false,
+   "fuente": "https://www.businesswire.com/news/home/20260716508005/en/Panama-Black-Weekend-2026-the-international-quality-shopping-and-tourism-experience-for-Honduran-visitors-is-back"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://www.timeanddate.com/holidays/panama/halloween"
+  },
+  {
+   "inicio": "2027-11-01",
+   "cat": "comercio",
+   "titulo": "Día del Niño y la Niña",
+   "detalle": "Lunes; ley lo devolvió al 1 de noviembre",
+   "fuente": "https://www.tvn-2.com/nacionales/dia-del-nino-y-la-nina-1-de-noviembre-regresa-publican-en-gaceta-oficial_1_2163563.html"
+  },
+  {
+   "inicio": "2027-11-03",
+   "cat": "feriado",
+   "titulo": "Separación de Panamá de Colombia",
+   "detalle": "Feriado nacional; miércoles",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-11-04",
+   "cat": "feriado",
+   "titulo": "Día de los Símbolos Patrios",
+   "detalle": "Libre solo si el Ejecutivo lo decreta; jueves",
+   "confirmado": false,
+   "fuente": "https://www.laestrella.com.pa/panama/informacion-util/calendario-fiestas-patrias-2025-en-panama-feriados-y-posible-fin-de-semana-largo-OJ16869117"
+  },
+  {
+   "inicio": "2027-11-05",
+   "cat": "feriado",
+   "titulo": "Consolidación de la Separación (Colón)",
+   "detalle": "Feriado nacional; viernes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-11-10",
+   "cat": "feriado",
+   "titulo": "Primer Grito de Independencia",
+   "detalle": "Villa de Los Santos; feriado nacional; miércoles",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-11-14",
+   "cat": "deporte",
+   "titulo": "Maratón Internacional de Panamá",
+   "detalle": "42K/21K/5K; estimado según 2026 (15 nov)",
+   "confirmado": false,
+   "fuente": "https://www.panamaamerica.com.pa/deportes/maraton-internacional-de-panama-festeja-50-anos-1259716"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes",
+   "fuente": "https://www.timeanddate.com/holidays/us/black-friday"
+  },
+  {
+   "inicio": "2027-11-28",
+   "cat": "feriado",
+   "titulo": "Independencia de Panamá de España",
+   "detalle": "Cae domingo",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; además es feriado trasladado",
+   "fuente": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "feriado",
+   "titulo": "Independencia de España (día libre)",
+   "detalle": "Traslado a lunes; coincide con Cyber Monday",
+   "fuente": "https://www.telemetro.com/nacionales/calendario-dias-festivos-panama-2026-conoce-los-feriados-y-dias-libres-n6065177"
+  },
+  {
+   "inicio": "2027-12-08",
+   "cat": "feriado",
+   "titulo": "Día de las Madres",
+   "detalle": "Feriado nacional y fecha comercial; miércoles",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-12-10",
+   "cat": "escolar",
+   "titulo": "Fin del tercer trimestre MEDUCA",
+   "detalle": "Balance final y graduaciones 13–17 dic",
+   "fuente": "https://www.laestrella.com.pa/panama/nacional/calendario-escolar-2027-cambia-clases-iniciaran-el-1-de-marzo-AE24643517"
+  },
+  {
+   "inicio": "2027-12-15",
+   "cat": "pagos",
+   "titulo": "Décimo tercer mes: 3.ª partida",
+   "detalle": "Fecha límite; miércoles (ago–nov)",
+   "fuente": "https://softland.com/pa/decimo-tercer-mes-panama-guia/"
+  },
+  {
+   "inicio": "2027-12-17",
+   "cat": "escolar",
+   "titulo": "Cierre del año lectivo MEDUCA",
+   "detalle": "Inicio de vacaciones de verano",
+   "fuente": "https://www.laestrella.com.pa/panama/nacional/calendario-escolar-2027-cambia-clases-iniciaran-el-1-de-marzo-AE24643517"
+  },
+  {
+   "inicio": "2027-12-20",
+   "cat": "feriado",
+   "titulo": "Día de Duelo Nacional",
+   "detalle": "Caídos en la invasión de 1989; lunes",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de compras navideñas",
+   "fuente": "https://www.timeanddate.com/holidays/panama/christmas-eve"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado nacional; cae sábado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/panama/2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes",
+   "fuente": "https://www.timeanddate.com/holidays/panama/new-year-eve"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

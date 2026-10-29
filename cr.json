@@ -1,0 +1,322 @@
+{
+ "pais": "Costa Rica",
+ "codigo": "cr",
+ "region": "Centroamérica",
+ "eventos": [
+  {
+   "inicio": "2026-10-11",
+   "cat": "deporte",
+   "titulo": "XXII Carrera-Caminata Grupo Comeca",
+   "detalle": "Santa Ana; 10K",
+   "fuente": "https://www.ahotu.com/es/calendario/running/costa-rica"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; fecha comercial, no es feriado",
+   "fuente": "https://www.timeanddate.com/holidays/costa-rica/2026"
+  },
+  {
+   "inicio": "2026-11-15",
+   "cat": "deporte",
+   "titulo": "Carrera de la Comunicación",
+   "detalle": "5K/10K",
+   "fuente": "https://www.ahotu.com/es/calendario/running/costa-rica"
+  },
+  {
+   "inicio": "2026-11-22",
+   "cat": "deporte",
+   "titulo": "Gran Maratón Costa Rica",
+   "detalle": "San José (Estadio Nacional); 42K/22K/10K/5K/2K",
+   "fuente": "https://www.granmaratoncr.com/"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday (Viernes Negro)",
+   "detalle": "Promos y horarios extendidos; MEIC fiscaliza",
+   "fuente": "https://observador.cr/tag/black-friday/"
+  },
+  {
+   "inicio": "2026-11-29",
+   "cat": "deporte",
+   "titulo": "Montes de Oca se Mueve",
+   "detalle": "Montes de Oca; 5K/10K",
+   "fuente": "https://www.ahotu.com/es/calendario/running/costa-rica"
+  },
+  {
+   "inicio": "2026-12-01",
+   "cat": "feriado",
+   "titulo": "Día de la Abolición del Ejército",
+   "detalle": "Martes; feriado de pago no obligatorio",
+   "fuente": "https://www.elfinancierocr.com/estilo-de-vida/feriados-costa-rica-2026-lista-completa/5BSUOHQSRVDPREKHTZPWD3ZVMU/story/"
+  },
+  {
+   "inicio": "2026-12-06",
+   "cat": "deporte",
+   "titulo": "San José Marathon Costa Rica",
+   "detalle": "San José; 42K/21K/10K/5K",
+   "fuente": "https://www.marathonsanjosecostarica.com/"
+  },
+  {
+   "inicio": "2026-12-09",
+   "cat": "escolar",
+   "titulo": "Fin del curso lectivo MEP",
+   "detalle": "Inicio de vacaciones de fin de año",
+   "fuente": "https://www.teletica.com/nacional/mep-da-a-conocer-vacaciones-y-otras-fechas-importantes-del-calendario-escolar-2026_399195"
+  },
+  {
+   "inicio": "2026-12-10",
+   "fin": "2026-12-11",
+   "cat": "escolar",
+   "titulo": "Actos de graduación MEP",
+   "detalle": "Graduaciones en centros educativos",
+   "fuente": "https://www.teletica.com/nacional/mep-da-a-conocer-vacaciones-y-otras-fechas-importantes-del-calendario-escolar-2026_399195"
+  },
+  {
+   "inicio": "2026-12-12",
+   "cat": "comercio",
+   "titulo": "Festival de la Luz",
+   "detalle": "Desfile navideño en San José, sábado",
+   "fuente": "https://www.teletica.com/entretenimiento/este-sera-el-recorrido-del-festival-de-la-luz-2026_417334"
+  },
+  {
+   "inicio": "2026-12-20",
+   "cat": "pagos",
+   "titulo": "Límite pago aguinaldo",
+   "detalle": "Sector privado, a más tardar 20 dic (domingo)",
+   "fuente": "https://aglegal.com/algunos-aspectos-importantes-sobre-el-aguinaldo/"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Jueves; pico de compras, no es feriado",
+   "fuente": "https://www.elfinancierocr.com/estilo-de-vida/feriados-costa-rica-2026-lista-completa/5BSUOHQSRVDPREKHTZPWD3ZVMU/story/"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Viernes; feriado de pago obligatorio",
+   "fuente": "https://www.elfinancierocr.com/estilo-de-vida/feriados-costa-rica-2026-lista-completa/5BSUOHQSRVDPREKHTZPWD3ZVMU/story/"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Jueves; no es feriado oficial",
+   "fuente": "https://www.elfinancierocr.com/estilo-de-vida/feriados-costa-rica-2026-lista-completa/5BSUOHQSRVDPREKHTZPWD3ZVMU/story/"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Feriado de pago obligatorio, viernes",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-01-04",
+   "fin": "2027-02-21",
+   "cat": "comercio",
+   "titulo": "Temporada de regreso a clases",
+   "detalle": "Útiles, uniformes y calzado; estimado",
+   "confirmado": false,
+   "fuente": "https://www.teletica.com/nacional/mep-da-a-conocer-vacaciones-y-otras-fechas-importantes-del-calendario-escolar-2026_399195"
+  },
+  {
+   "inicio": "2027-01-22",
+   "cat": "pagos",
+   "titulo": "Salario escolar (sector público)",
+   "detalle": "Estimado según 2026 (pagado el 23 ene)",
+   "confirmado": false,
+   "fuente": "https://observador.cr/salario-escolar-2026-fecha-pago-empleados-publicos/"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "Día del Amor y la Amistad",
+   "detalle": "San Valentín, domingo",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-02-22",
+   "cat": "escolar",
+   "titulo": "Inicio del curso lectivo 2027",
+   "detalle": "Estimado según 2026; MEP evalúa iniciar 1 marzo",
+   "confirmado": false,
+   "fuente": "https://observador.cr/mep-analiza-propuesta-para-reducir-curso-lectivo-a-176-dias-y-arrancar-clases-en-marzo-en-2027/"
+  },
+  {
+   "inicio": "2027-03-21",
+   "fin": "2027-03-28",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Semana Santa",
+   "detalle": "Estimado según 2026 (semana de Semana Santa)",
+   "confirmado": false,
+   "fuente": "https://www.teletica.com/nacional/mep-da-a-conocer-vacaciones-y-otras-fechas-importantes-del-calendario-escolar-2026_399195"
+  },
+  {
+   "inicio": "2027-03-25",
+   "fin": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Jueves y Viernes Santo",
+   "detalle": "Feriados de pago obligatorio (25–26 mar)",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-04-11",
+   "cat": "feriado",
+   "titulo": "Día de Juan Santamaría",
+   "detalle": "Domingo; sin traslado (proyecto 25.593 pendiente)",
+   "fuente": "https://crhoy.com/nacionales/cinco-feriados-podrian-trasladarse-al-lunes-si-se-aprueba-proyecto-de-ley/"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día Internacional del Trabajo",
+   "detalle": "Pago obligatorio, sábado",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-06-06",
+   "cat": "deporte",
+   "titulo": "Maratón Internacional San José",
+   "detalle": "5K,10K,21K,42K; estimado según 2026 (7 jun)",
+   "confirmado": false,
+   "fuente": "https://delfino.cr/2026/02/maraton-de-san-jose-2026-reunira-a-5-mil-atletas-nacionales-e-internacionales-en-junio"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-07-05",
+   "fin": "2027-07-16",
+   "cat": "escolar",
+   "titulo": "Vacaciones de medio año",
+   "detalle": "Estimado según 2026 (6–17 jul)",
+   "confirmado": false,
+   "fuente": "https://www.teletica.com/nacional/mep-da-a-conocer-vacaciones-y-otras-fechas-importantes-del-calendario-escolar-2026_399195"
+  },
+  {
+   "inicio": "2027-07-25",
+   "cat": "feriado",
+   "titulo": "Anexión del Partido de Nicoya",
+   "detalle": "Domingo; pago obligatorio; sin traslado vigente",
+   "fuente": "https://crhoy.com/nacionales/cinco-feriados-podrian-trasladarse-al-lunes-si-se-aprueba-proyecto-de-ley/"
+  },
+  {
+   "inicio": "2027-08-02",
+   "cat": "feriado",
+   "titulo": "Día de la Virgen de los Ángeles",
+   "detalle": "Lunes; feriado de pago no obligatorio",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-08-15",
+   "cat": "feriado",
+   "titulo": "Día de la Madre",
+   "detalle": "Feriado de pago obligatorio, domingo; clave ventas",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-08-31",
+   "cat": "feriado",
+   "titulo": "Día de la Persona Negra",
+   "detalle": "Martes; pago no obligatorio",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-09-09",
+   "cat": "comercio",
+   "titulo": "Día del Niño",
+   "detalle": "9 de septiembre, jueves",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-09-15",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Pago obligatorio, miércoles",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo; fecha comercial",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-11-21",
+   "cat": "deporte",
+   "titulo": "Gran Maratón Costa Rica",
+   "detalle": "San José; 2K a 42K; estimado según 2026 (22 nov)",
+   "confirmado": false,
+   "fuente": "https://delfino.cr/2026/04/se-agoto-en-horas-la-preventa-de-inscripciones-de-la-gran-maraton-costa-rica-2026"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Viernes Negro (Black Friday)",
+   "detalle": "Viernes; en CR suele ser temporada de varios días",
+   "fuente": "https://observador.cr/el-viernes-negro-en-costa-rica-es-una-temporada-y-no-un-solo-dia/"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ofertas en línea",
+   "fuente": "https://observador.cr/el-viernes-negro-en-costa-rica-es-una-temporada-y-no-un-solo-dia/"
+  },
+  {
+   "inicio": "2027-12-01",
+   "cat": "feriado",
+   "titulo": "Día de la Abolición del Ejército",
+   "detalle": "Miércoles; pago no obligatorio",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-12-08",
+   "cat": "escolar",
+   "titulo": "Cierre del curso lectivo (aprox.)",
+   "detalle": "Estimado según 2026 (cierre 9 dic)",
+   "confirmado": false,
+   "fuente": "https://www.teletica.com/nacional/mep-da-a-conocer-vacaciones-y-otras-fechas-importantes-del-calendario-escolar-2026_399195"
+  },
+  {
+   "inicio": "2027-12-20",
+   "cat": "pagos",
+   "titulo": "Aguinaldo",
+   "detalle": "Fecha límite legal: 20 dic, lunes",
+   "fuente": "https://delfino.cr/2024/12/hoy-vence-el-plazo-para-el-pago-del-aguinaldo-en-costa-rica"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de ventas navideñas",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Pago obligatorio, sábado",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; Nochevieja",
+   "fuente": "https://www.jibble.io/es/recursos/calendario-feriados-costa-rica"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

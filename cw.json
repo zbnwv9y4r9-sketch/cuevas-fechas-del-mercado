@@ -1,0 +1,327 @@
+{
+ "pais": "Curazao",
+ "codigo": "cw",
+ "region": "Caribe",
+ "eventos": [
+  {
+   "inicio": "2026-10-10",
+   "cat": "feriado",
+   "titulo": "Día del País (Dia di Pais)",
+   "detalle": "Feriado nacional, autonomía de Curazao (sábado)",
+   "fuente": "https://www.officeholidays.com/countries/curacao/2026"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Fiestas y disfraces; celebración menor (sábado)",
+   "fuente": "https://calendarific.com/holidays/2026/cw"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Fecha fija; adopción local no verificada",
+   "confirmado": false,
+   "fuente": "https://calendarific.com/holidays/2026/cw"
+  },
+  {
+   "inicio": "2026-11-28",
+   "fin": "2026-11-29",
+   "cat": "deporte",
+   "titulo": "KLM Curaçao Marathon",
+   "detalle": "Willemstad; 5K sáb, 10K/21K/42K dom",
+   "fuente": "https://aims-worldrunning.org/articles/2777-race-date-for-klm-curacao-marathon-21-1k-10k-5k-cur-changed.html"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Fecha fija; adopción local no verificada",
+   "confirmado": false,
+   "fuente": "https://calendarific.com/holidays/2026/cw"
+  },
+  {
+   "inicio": "2026-12-01",
+   "fin": "2026-12-31",
+   "cat": "pagos",
+   "titulo": "Bono/voucher de fin de año",
+   "detalle": "Empleados públicos (300 XCG en 2025); 2026 sin confirmar",
+   "confirmado": false,
+   "fuente": "https://www.curacaochronicle.com/post/local/pisas-iii-cabinet-announces-end-of-year-bonus-for-public-sector-workers"
+  },
+  {
+   "inicio": "2026-12-05",
+   "cat": "comercio",
+   "titulo": "Sinterklaas (Sint Nicolaas)",
+   "detalle": "No feriado; regalos infantiles, sin intocht oficial",
+   "fuente": "https://nos.nl/artikel/2336327-geen-intocht-van-sinterklaas-meer-op-curacao-maar-wat-dan"
+  },
+  {
+   "inicio": "2026-12-19",
+   "fin": "2027-01-03",
+   "cat": "escolar",
+   "titulo": "Vacaciones escolares de Navidad",
+   "detalle": "Estimado según patrón histórico; no publicado",
+   "confirmado": false,
+   "fuente": "https://www.curacaochronicle.com/post/local/school-holiday-calendar-until-2024-known"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Último día fuerte de compras navideñas",
+   "fuente": "https://www.officeholidays.com/countries/curacao/2026"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad (Promé Dia di Pasku)",
+   "detalle": "Feriado nacional (viernes)",
+   "fuente": "https://www.officeholidays.com/countries/curacao/2026"
+  },
+  {
+   "inicio": "2026-12-26",
+   "cat": "feriado",
+   "titulo": "Segundo día de Navidad",
+   "detalle": "Feriado nacional (sábado); sin traslado",
+   "fuente": "https://www.officeholidays.com/countries/curacao/2026"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "feriado",
+   "titulo": "Fin de año (medio día)",
+   "detalle": "Tarde libre habitual; pagara y fuegos artificiales",
+   "fuente": "https://holidaydb.com/guides/public-holidays/curacao/2026"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Feriado oficial, viernes",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-01-31",
+   "cat": "comercio",
+   "titulo": "Desfile infantil de Carnaval",
+   "detalle": "Estimado según 2026 (domingo previo)",
+   "confirmado": false,
+   "fuente": "https://www.curacaochronicle.com/post/unknown/full-schedule-announced-for-curacao-carnival-2026-with-parades-and-festivities-across-the-island"
+  },
+  {
+   "inicio": "2027-02-07",
+   "cat": "comercio",
+   "titulo": "Gran Marcha de Carnaval",
+   "detalle": "Willemstad; domingo. Est. según 2026",
+   "confirmado": false,
+   "fuente": "https://www.curacaochronicle.com/post/unknown/full-schedule-announced-for-curacao-carnival-2026-with-parades-and-festivities-across-the-island"
+  },
+  {
+   "inicio": "2027-02-08",
+   "cat": "feriado",
+   "titulo": "Lunes de Carnaval",
+   "detalle": "Feriado oficial tras la Gran Marcha",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-02-09",
+   "cat": "comercio",
+   "titulo": "Marcha di Despedida",
+   "detalle": "Cierre del Carnaval, martes. Est. 2026",
+   "confirmado": false,
+   "fuente": "https://www.curacaochronicle.com/post/unknown/full-schedule-announced-for-curacao-carnival-2026-with-parades-and-festivities-across-the-island"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "San Valentín",
+   "detalle": "Domingo",
+   "fuente": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo",
+   "detalle": "Feriado oficial",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-03-28",
+   "cat": "feriado",
+   "titulo": "Domingo de Pascua",
+   "detalle": "Feriado oficial",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-03-29",
+   "cat": "feriado",
+   "titulo": "Lunes de Pascua",
+   "detalle": "Feriado oficial; desfile Seú",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/curacao.htm"
+  },
+  {
+   "inicio": "2027-04-27",
+   "cat": "feriado",
+   "titulo": "Día del Rey",
+   "detalle": "Feriado oficial, martes",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajo",
+   "detalle": "Sábado",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-05-06",
+   "cat": "feriado",
+   "titulo": "Día de la Ascensión",
+   "detalle": "Feriado oficial, jueves",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de la Madre",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+  },
+  {
+   "inicio": "2027-05-16",
+   "cat": "feriado",
+   "titulo": "Domingo de Pentecostés",
+   "detalle": "Feriado oficial",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://en.wikipedia.org/wiki/Father%27s_Day"
+  },
+  {
+   "inicio": "2027-07-02",
+   "cat": "feriado",
+   "titulo": "Día de la Bandera y el Himno",
+   "detalle": "Feriado oficial, viernes",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-07-05",
+   "cat": "escolar",
+   "titulo": "Inicio vacaciones de verano",
+   "detalle": "Aprox.; año escolar termina 31 jul por ley",
+   "confirmado": false,
+   "fuente": "https://gobiernu.cw/wp-content/uploads/2025/06/86-GT.-Mrmaw-tuv-art.-24-lvo-vo.pdf"
+  },
+  {
+   "inicio": "2027-07-19",
+   "fin": "2027-08-15",
+   "cat": "comercio",
+   "titulo": "Temporada regreso a clases",
+   "detalle": "Uniformes y calzado; estimado",
+   "confirmado": false,
+   "fuente": "https://www.curacaochronicle.com/post/unknown/public-schools-launch-new-school-year-with-focus-on-teacher-well-being-and-improved-facilities"
+  },
+  {
+   "inicio": "2027-08-16",
+   "cat": "escolar",
+   "titulo": "Inicio año escolar 2027-28",
+   "detalle": "Estimado según 2026 (17 ago)",
+   "confirmado": false,
+   "fuente": "https://www.curacaochronicle.com/post/unknown/public-schools-launch-new-school-year-with-focus-on-teacher-well-being-and-improved-facilities"
+  },
+  {
+   "inicio": "2027-10-10",
+   "cat": "feriado",
+   "titulo": "Día de Curazao",
+   "detalle": "Domingo; sin traslado publicado",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://en.wikipedia.org/wiki/Halloween"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; adopción local variable",
+   "fuente": "https://en.wikipedia.org/wiki/Black_Friday_(shopping)"
+  },
+  {
+   "inicio": "2027-11-28",
+   "cat": "deporte",
+   "titulo": "KLM Curaçao Marathon",
+   "detalle": "42K, 21,1K, 10K, 5K. Est. según 2026",
+   "confirmado": false,
+   "fuente": "https://aims-worldrunning.org/articles/2777-race-date-for-klm-curacao-marathon-21-1k-10k-5k-cur-changed.html"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas online",
+   "fuente": "https://en.wikipedia.org/wiki/Cyber_Monday"
+  },
+  {
+   "inicio": "2027-12-01",
+   "fin": "2027-12-31",
+   "cat": "pagos",
+   "titulo": "Pago 13.er mes (costumbre/CAO)",
+   "detalle": "No obligatorio por ley; usual en diciembre",
+   "confirmado": false,
+   "fuente": "https://rivermate.com/fr/guides/curacao/salaire"
+  },
+  {
+   "inicio": "2027-12-15",
+   "cat": "escolar",
+   "titulo": "Día del Reino (escuelas cerradas)",
+   "detalle": "Cierre escolar por decreto; miércoles",
+   "fuente": "https://gobiernu.cw/wp-content/uploads/2025/06/86-GT.-Mrmaw-tuv-art.-24-lvo-vo.pdf"
+  },
+  {
+   "inicio": "2027-12-20",
+   "cat": "escolar",
+   "titulo": "Inicio vacaciones de Navidad",
+   "detalle": "Aprox. según patrón; hasta inicios de ene",
+   "confirmado": false,
+   "fuente": "https://gobiernu.cw/wp-content/uploads/2025/06/86-GT.-Mrmaw-tuv-art.-24-lvo-vo.pdf"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de compras navideñas",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Sábado; sin traslado",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-12-26",
+   "cat": "feriado",
+   "titulo": "Segundo día de Navidad",
+   "detalle": "Domingo; sin traslado",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; víspera de Año Nuevo",
+   "fuente": "https://www.calendarlabs.com/holidays/curacao/2027"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

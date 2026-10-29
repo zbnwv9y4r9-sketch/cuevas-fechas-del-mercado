@@ -1,0 +1,272 @@
+{
+ "pais": "Jamaica",
+ "codigo": "jm",
+ "region": "Caribe",
+ "eventos": [
+  {
+   "inicio": "2026-10-19",
+   "cat": "feriado",
+   "titulo": "Día de los Héroes Nacionales",
+   "detalle": "Feriado oficial (lunes); fin de semana largo",
+   "fuente": "https://www.officeholidays.com/countries/jamaica"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; celebración menor, sobre todo fiestas",
+   "fuente": "https://www.timeanddate.com/holidays/jamaica/2026"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Ventas en tiendas y campañas \"Black Friday Frenzy\"",
+   "fuente": "https://www.jamaicaobserver.com/blackfriday/"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Ofertas en línea",
+   "fuente": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+   "inicio": "2026-12-06",
+   "cat": "deporte",
+   "titulo": "Reggae Marathon 2026",
+   "detalle": "Kingston Waterfront; 21K, 10K, 5K (42K virtual)",
+   "fuente": "https://www.riotimesonline.com/reggae-marathon-kingston-2026-jamaica-6-december-not-negril/"
+  },
+  {
+   "inicio": "2026-12-18",
+   "cat": "escolar",
+   "titulo": "Fin del término de Navidad (estimado)",
+   "detalle": "Fecha oficial MoEY 2026-27 no encontrada",
+   "confirmado": false,
+   "fuente": "https://moey.gov.jm/"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena / Grand Market",
+   "detalle": "Mercados nocturnos y compras de última hora",
+   "fuente": "https://rove.me/to/jamaica/christmas-market-grand-market"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado oficial (viernes)",
+   "fuente": "https://www.officeholidays.com/countries/jamaica"
+  },
+  {
+   "inicio": "2026-12-26",
+   "cat": "feriado",
+   "titulo": "Boxing Day",
+   "detalle": "Feriado (sábado); no se traslada al lunes",
+   "fuente": "https://www.officeholidays.com/countries/jamaica"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Víspera de Año Nuevo; compras de fiesta",
+   "fuente": "https://www.holidays-info.com/jamaica/calendar/"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo (New Year's Day)",
+   "detalle": "Viernes",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/jamaica.htm"
+  },
+  {
+   "inicio": "2027-01-04",
+   "cat": "escolar",
+   "titulo": "Inicio Easter Term (aprox.)",
+   "detalle": "Estimado según 2026 (5 ene); MOEY",
+   "confirmado": false,
+   "fuente": "https://jamaicacollege.org/wp-content/uploads/2025/09/JAMAICA-COLLEGE-overall-CALENDAR-2025-2026.pdf"
+  },
+  {
+   "inicio": "2027-02-10",
+   "cat": "feriado",
+   "titulo": "Miércoles de Ceniza (Ash Wednesday)",
+   "detalle": "Miércoles; feriado oficial",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/jamaica.htm"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "San Valentín",
+   "detalle": "Domingo",
+   "fuente": "https://www.timeanddate.com/holidays/jamaica/"
+  },
+  {
+   "inicio": "2027-02-21",
+   "cat": "deporte",
+   "titulo": "Sagicor Sigma Run",
+   "detalle": "Carrera benéfica, Kingston; estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://jamaica-gleaner.com/article/news/20260215/sagicor-sigma-charity-road-race-crosses-1-billion-milestone"
+  },
+  {
+   "inicio": "2027-03-16",
+   "fin": "2027-03-20",
+   "cat": "deporte",
+   "titulo": "ISSA Boys and Girls Champs",
+   "detalle": "Estadio Nacional; estimado (2026: 24–28 mar)",
+   "confirmado": false,
+   "fuente": "https://www.jamaicaobserver.com/2026/03/13/champs-on-track-20260313-0545-152822/"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo (Good Friday)",
+   "detalle": "Viernes",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/jamaica.htm"
+  },
+  {
+   "inicio": "2027-03-29",
+   "cat": "feriado",
+   "titulo": "Lunes de Pascua (Easter Monday)",
+   "detalle": "Lunes",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/jamaica.htm"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de las Madres",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://www.timeanddate.com/holidays/jamaica/"
+  },
+  {
+   "inicio": "2027-05-24",
+   "cat": "feriado",
+   "titulo": "Día del Trabajo (Labour Day, observado)",
+   "detalle": "23 may cae domingo; se observa lunes 24",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/jamaica.htm"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://www.timeanddate.com/holidays/jamaica/"
+  },
+  {
+   "inicio": "2027-06-25",
+   "cat": "escolar",
+   "titulo": "Fin del año escolar 2026-2027 (aprox.)",
+   "detalle": "Estimado según 2026 (fin ~26 jun)",
+   "confirmado": false,
+   "fuente": "https://jamaicacollege.org/wp-content/uploads/2025/09/JAMAICA-COLLEGE-overall-CALENDAR-2025-2026.pdf"
+  },
+  {
+   "inicio": "2027-08-02",
+   "cat": "feriado",
+   "titulo": "Día de la Emancipación (observado)",
+   "detalle": "1 ago cae domingo; se observa lunes 2",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/jamaica.htm"
+  },
+  {
+   "inicio": "2027-08-06",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Viernes; fin de semana largo",
+   "fuente": "https://www.qppstudio.net/publicholidays2027/jamaica.htm"
+  },
+  {
+   "inicio": "2027-08-07",
+   "fin": "2027-09-05",
+   "cat": "comercio",
+   "titulo": "Temporada back-to-school",
+   "detalle": "Calzado/uniformes; clases inician en sep",
+   "confirmado": false,
+   "fuente": "https://www.jamaicaobserver.com/2026/08/20/schools-show-mixed-readiness-september-reopening/"
+  },
+  {
+   "inicio": "2027-09-06",
+   "cat": "escolar",
+   "titulo": "Inicio año escolar 2027-2028 (aprox.)",
+   "detalle": "Estimado según 2026 (lun 7 sep)",
+   "confirmado": false,
+   "fuente": "https://www.jamaicaobserver.com/2026/08/20/schools-show-mixed-readiness-september-reopening/"
+  },
+  {
+   "inicio": "2027-10-18",
+   "cat": "feriado",
+   "titulo": "Día de los Héroes Nacionales",
+   "detalle": "Tercer lunes de octubre",
+   "fuente": "https://holidaydb.com/guides/public-holidays/jamaica/2027"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://www.timeanddate.com/holidays/jamaica/"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; amplia adopción en retail",
+   "fuente": "https://www.jamaicaobserver.com/blackfriday/"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas en línea",
+   "fuente": "https://www.timeanddate.com/holidays/jamaica/"
+  },
+  {
+   "inicio": "2027-12-05",
+   "cat": "deporte",
+   "titulo": "Reggae Marathon",
+   "detalle": "21K/10K/5K (42K virtual), Kingston",
+   "fuente": "https://www.riotimesonline.com/reggae-marathon-kingston-2026-jamaica-6-december-not-negril/"
+  },
+  {
+   "inicio": "2027-12-17",
+   "fin": "2027-12-31",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Navidad (aprox.)",
+   "detalle": "Estimado según 2025 (fin término ~12 dic)",
+   "confirmado": false,
+   "fuente": "https://jamaicacollege.org/wp-content/uploads/2025/09/JAMAICA-COLLEGE-overall-CALENDAR-2025-2026.pdf"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena / Grand Market",
+   "detalle": "Viernes; mercado tradicional navideño",
+   "fuente": "https://www.jamaicaobserver.com/2024/12/24/history-grand-market-tradition-festivity-culture-commerce"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad (Christmas Day)",
+   "detalle": "Sábado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/jamaica/2027"
+  },
+  {
+   "inicio": "2027-12-27",
+   "cat": "feriado",
+   "titulo": "Boxing Day (observado)",
+   "detalle": "26 dic cae domingo; se observa lunes 27",
+   "confirmado": false,
+   "fuente": "https://holidaydb.com/guides/public-holidays/jamaica/2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; Nochevieja",
+   "fuente": "https://www.timeanddate.com/holidays/jamaica/"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

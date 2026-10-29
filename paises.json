@@ -1,0 +1,85 @@
+{
+ "actualizado": "2026-10-28",
+ "paises": [
+  {
+   "codigo": "aw",
+   "pais": "Aruba",
+   "region": "Caribe"
+  },
+  {
+   "codigo": "bs",
+   "pais": "Bahamas",
+   "region": "Caribe"
+  },
+  {
+   "codigo": "bb",
+   "pais": "Barbados",
+   "region": "Caribe"
+  },
+  {
+   "codigo": "bz",
+   "pais": "Belice",
+   "region": "Centroamérica"
+  },
+  {
+   "codigo": "cr",
+   "pais": "Costa Rica",
+   "region": "Centroamérica"
+  },
+  {
+   "codigo": "cw",
+   "pais": "Curazao",
+   "region": "Caribe"
+  },
+  {
+   "codigo": "sv",
+   "pais": "El Salvador",
+   "region": "Centroamérica"
+  },
+  {
+   "codigo": "gt",
+   "pais": "Guatemala",
+   "region": "Centroamérica"
+  },
+  {
+   "codigo": "hn",
+   "pais": "Honduras",
+   "region": "Centroamérica"
+  },
+  {
+   "codigo": "jm",
+   "pais": "Jamaica",
+   "region": "Caribe"
+  },
+  {
+   "codigo": "ni",
+   "pais": "Nicaragua",
+   "region": "Centroamérica"
+  },
+  {
+   "codigo": "pa",
+   "pais": "Panamá",
+   "region": "Centroamérica"
+  },
+  {
+   "codigo": "pr",
+   "pais": "Puerto Rico",
+   "region": "Caribe"
+  },
+  {
+   "codigo": "do",
+   "pais": "República Dominicana",
+   "region": "Caribe"
+  },
+  {
+   "codigo": "tt",
+   "pais": "Trinidad y Tobago",
+   "region": "Caribe"
+  },
+  {
+   "codigo": "ve",
+   "pais": "Venezuela",
+   "region": "Sudamérica"
+  }
+ ]
+}

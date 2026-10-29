@@ -1,0 +1,341 @@
+{
+ "pais": "República Dominicana",
+ "codigo": "do",
+ "region": "Caribe",
+ "eventos": [
+  {
+   "inicio": "2026-10-18",
+   "cat": "deporte",
+   "titulo": "Maratón de Santo Domingo",
+   "detalle": "Centro de los Héroes; 42K/21K/10K/5K",
+   "fuente": "https://www.ahotu.com/es/evento/maraton-de-santo-domingo"
+  },
+  {
+   "inicio": "2026-10-25",
+   "cat": "deporte",
+   "titulo": "Body Perfect Run 6K",
+   "detalle": "Jardín Botánico, Santo Domingo; 6K",
+   "fuente": "https://santodomingocorre.com/proximos-eventos/nacionales"
+  },
+  {
+   "inicio": "2026-10-30",
+   "cat": "escolar",
+   "titulo": "Primer reporte de notas (P1)",
+   "detalle": "Primaria y secundaria, MINERD",
+   "fuente": "https://www.ministeriodeeducacion.gob.do/media/05d94e27834e69638914e5a1755bbb9965f30385calendario-escolar-2026-2027pdf.pdf"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; fecha comercial, no es feriado",
+   "fuente": "https://www.timeanddate.com/holidays/dominican-republic/2026"
+  },
+  {
+   "inicio": "2026-11-08",
+   "cat": "deporte",
+   "titulo": "Carrera Los Robles Runners Club",
+   "detalle": "Moca; 5K/10K",
+   "fuente": "https://santodomingocorre.com/proximos-eventos/nacionales"
+  },
+  {
+   "inicio": "2026-11-09",
+   "cat": "feriado",
+   "titulo": "Día de la Constitución (traslado)",
+   "detalle": "Del viernes 6 al lunes 9 (Ley 139-97)",
+   "fuente": "https://revistamercado.do/actualidad/cuantos-feriados-quedan-en-rd-en-2026-estas-son-las-proximas-fechas/"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday (Viernes Negro)",
+   "detalle": "Comercios extienden ofertas en noviembre",
+   "fuente": "https://www.diariolibre.com/economia/en-vez-de-un-black-friday-comercios-alargaran-ofertas-con-noviembre-negro-GA22553173"
+  },
+  {
+   "inicio": "2026-12-12",
+   "cat": "deporte",
+   "titulo": "Viejas Glorias Runner 5K",
+   "detalle": "Parque Mirador Sur, Santo Domingo; 5K",
+   "fuente": "https://santodomingocorre.com/proximos-eventos/nacionales"
+  },
+  {
+   "inicio": "2026-12-14",
+   "fin": "2026-12-18",
+   "cat": "escolar",
+   "titulo": "Entrega calificaciones 1er período",
+   "detalle": "Reportes de notas MINERD",
+   "fuente": "https://www.ministeriodeeducacion.gob.do/media/05d94e27834e69638914e5a1755bbb9965f30385calendario-escolar-2026-2027pdf.pdf"
+  },
+  {
+   "inicio": "2026-12-18",
+   "fin": "2027-01-06",
+   "cat": "escolar",
+   "titulo": "Receso navideño escolar",
+   "detalle": "Retorno a clases 7 ene 2027",
+   "fuente": "https://www.ministeriodeeducacion.gob.do/media/05d94e27834e69638914e5a1755bbb9965f30385calendario-escolar-2026-2027pdf.pdf"
+  },
+  {
+   "inicio": "2026-12-20",
+   "cat": "pagos",
+   "titulo": "Límite pago regalía pascual",
+   "detalle": "Salario de Navidad; exento de ISR (Ley 30-26)",
+   "fuente": "https://www.g-talent.net/blogs/recursos-humanos/salario-navidad-republica-dominicana-2026-ley-30-26"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Jueves; pico de compras, no es feriado",
+   "fuente": "https://revistamercado.do/actualidad/cuantos-feriados-quedan-en-rd-en-2026-estas-son-las-proximas-fechas/"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Viernes; feriado nacional",
+   "fuente": "https://revistamercado.do/actualidad/cuantos-feriados-quedan-en-rd-en-2026-estas-son-las-proximas-fechas/"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Jueves; no es feriado oficial",
+   "fuente": "https://revistamercado.do/actualidad/cuantos-feriados-quedan-en-rd-en-2026-estas-son-las-proximas-fechas/"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Viernes; feriado no trasladable",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-01-04",
+   "cat": "feriado",
+   "titulo": "Día de los Santos Reyes (trasladado)",
+   "detalle": "Cae mié 6 ene; Ley 139-97 lo pasa al lunes 4",
+   "confirmado": false,
+   "fuente": "https://eldinero.com.do/341901/estos-son-los-dias-feriados-del-ano-2026-en-republica-dominicana/"
+  },
+  {
+   "inicio": "2027-01-05",
+   "cat": "escolar",
+   "titulo": "Regreso a clases tras receso navideño",
+   "detalle": "Estimado según 2026 (retorno 6 ene); Minerd",
+   "confirmado": false,
+   "fuente": "https://listindiario.com/la-republica/educacion/20251215/vacaciones-navidad-regreso-ano-clases_886272.html"
+  },
+  {
+   "inicio": "2027-01-06",
+   "cat": "comercio",
+   "titulo": "Día de Reyes: pico de juguetes y regalos",
+   "detalle": "Miércoles; laborable si se aplica el traslado",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-01-21",
+   "cat": "feriado",
+   "titulo": "Día de Nuestra Señora de la Altagracia",
+   "detalle": "Jueves; feriado no trasladable",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-01-25",
+   "cat": "feriado",
+   "titulo": "Día de Duarte (trasladado)",
+   "detalle": "Cae mar 26 ene; pasa al lunes 25 (Ley 139-97)",
+   "confirmado": false,
+   "fuente": "https://diariolibre.com/politica/congreso-nacional/2025/06/03/diputados-aprueban-proyecto-para-que-dias-feriados-no-se-muevan/3137073"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "Día del Amor y la Amistad",
+   "detalle": "Domingo; San Valentín",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-02-27",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia Nacional",
+   "detalle": "Sábado; no trasladable. Desfile/carnaval",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-03-22",
+   "fin": "2027-03-26",
+   "cat": "escolar",
+   "titulo": "Receso escolar de Semana Santa",
+   "detalle": "Estimado: semana del 22 al 26 mar (patrón Minerd)",
+   "confirmado": false,
+   "fuente": "https://deultimominuto.com/nacionales/minerd-confirma/"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo",
+   "detalle": "Viernes; Semana Santa 22–28 mar, alto turismo",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-03-31",
+   "fin": "2027-04-30",
+   "cat": "pagos",
+   "titulo": "Bonificación (participación en utilidades)",
+   "detalle": "90–120 días tras cierre fiscal; vence 30 abr",
+   "fuente": "https://phlaw.com/es/participacion-en-utilidades-empresa-bonificacion/"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajo",
+   "detalle": "Sábado: no se traslada (solo mar–vie)",
+   "confirmado": false,
+   "fuente": "https://eldinero.com.do/341901/estos-son-los-dias-feriados-del-ano-2026-en-republica-dominicana/"
+  },
+  {
+   "inicio": "2027-05-27",
+   "cat": "feriado",
+   "titulo": "Corpus Christi",
+   "detalle": "Jueves; no se traslada",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-05-30",
+   "cat": "comercio",
+   "titulo": "Día de las Madres",
+   "detalle": "Último domingo de mayo; temporada fuerte",
+   "fuente": "https://acento.com.do/especiales/por-que-los-dominicanos-celebramos-el-dia-de-las-madres-el-ultimo-domingo-de-mayo-9677677.html"
+  },
+  {
+   "inicio": "2027-06-18",
+   "cat": "escolar",
+   "titulo": "Cierre del año escolar 2026-2027",
+   "detalle": "Estimado según 2025 (vie 20 jun); Minerd",
+   "confirmado": false,
+   "fuente": "https://www.elcaribe.com.do/panorama/educacion/educacion-informa-ano-escolar-concluira-el-viernes-20-de-junio-de-2025/"
+  },
+  {
+   "inicio": "2027-07-25",
+   "cat": "comercio",
+   "titulo": "Día de los Padres",
+   "detalle": "Último domingo de julio",
+   "fuente": "https://elnuevodiario.com.do/feliz-dia-del-padre-por-que-en-rd-se-celebra-en-julio-asi-se-conmemora-aqui-y-en-el-mundo/"
+  },
+  {
+   "inicio": "2027-08-01",
+   "fin": "2027-08-31",
+   "cat": "comercio",
+   "titulo": "Temporada de regreso a clases",
+   "detalle": "Calzado/uniformes; pico 2.ª quincena de agosto",
+   "confirmado": false,
+   "fuente": "https://www.diariolibre.com/actualidad/educacion/2026/07/23/el-sistema-publico-comenzara-el-24-de-agosto-el-ano-escolar-2026-2027/3608480"
+  },
+  {
+   "inicio": "2027-08-16",
+   "cat": "feriado",
+   "titulo": "Día de la Restauración",
+   "detalle": "Lunes; puente largo 14–16 ago",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-08-23",
+   "cat": "escolar",
+   "titulo": "Inicio del año escolar 2027-2028 (público)",
+   "detalle": "Estimado según 2026 (24 ago); privados hasta sep",
+   "confirmado": false,
+   "fuente": "https://www.diariolibre.com/actualidad/educacion/2026/07/23/el-sistema-publico-comenzara-el-24-de-agosto-el-ano-escolar-2026-2027/3608480"
+  },
+  {
+   "inicio": "2027-09-24",
+   "cat": "feriado",
+   "titulo": "Día de Nuestra Señora de las Mercedes",
+   "detalle": "Viernes; no trasladable; puente 24–26 sep",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-10-17",
+   "cat": "deporte",
+   "titulo": "Maratón de Santo Domingo",
+   "detalle": "42K/21K/10K/5K; estimado según 2026 (18 oct)",
+   "confirmado": false,
+   "fuente": "https://worldsmarathons.com/es/marathon/maraton-de-santo-domingo"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-11-06",
+   "cat": "feriado",
+   "titulo": "Día de la Constitución",
+   "detalle": "Sábado: no se traslada (solo mar–vie)",
+   "confirmado": false,
+   "fuente": "https://eldinero.com.do/341901/estos-son-los-dias-feriados-del-ano-2026-en-republica-dominicana/"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday (Viernes Negro)",
+   "detalle": "Viernes; ofertas toda la semana previa",
+   "fuente": "https://www.elcaribe.com.do/destacado/se-activan-compras-en-antesala-al-black-friday/"
+  },
+  {
+   "inicio": "2027-11-28",
+   "cat": "deporte",
+   "titulo": "Maratón Monumental Primer Santiago de América",
+   "detalle": "42K/21K/10K, Santiago; estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://www.finishers.com/course/maraton-monumental-primer-santiago-de-america"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas en línea",
+   "fuente": "https://www.elcaribe.com.do/destacado/se-activan-compras-en-antesala-al-black-friday/"
+  },
+  {
+   "inicio": "2027-12-17",
+   "fin": "2027-12-31",
+   "cat": "escolar",
+   "titulo": "Receso escolar de Navidad",
+   "detalle": "Estimado según 2025 (19 dic–6 ene); sigue en ene 2028",
+   "confirmado": false,
+   "fuente": "https://www.diariolibre.com/actualidad/educacion/2025/12/15/minerd-receso-del-ano-escolar-sera-del-19-de-diciembre-al-6-de-enero/3378162"
+  },
+  {
+   "inicio": "2027-12-20",
+   "cat": "pagos",
+   "titulo": "Fecha límite regalía pascual (doble sueldo)",
+   "detalle": "Lunes; pago antes del 20 dic (Código de Trabajo)",
+   "fuente": "https://elnuevodiario.com.do/gobierno-entregara-el-doble-sueldo-la-proxima-semana/"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; cierre de temporada navideña",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Sábado; no trasladable",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; Nochevieja",
+   "fuente": "https://www.jibble.io/es/recursos/dias-feriados-republica-dominicana-2027"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

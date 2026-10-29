@@ -1,0 +1,340 @@
+{
+ "pais": "Guatemala",
+ "codigo": "gt",
+ "region": "Centroamérica",
+ "eventos": [
+  {
+   "inicio": "2026-10-01",
+   "cat": "comercio",
+   "titulo": "Día del Niño",
+   "detalle": "Jueves; fecha clave para juguetes y regalos",
+   "fuente": "https://emisorasunidas.com/farandula/2026/10/01/dia-del-nino-2026-celebra-cada-1-de-octubre-guatemala/"
+  },
+  {
+   "inicio": "2026-10-15",
+   "cat": "escolar",
+   "titulo": "Fin de clases colegios privados",
+   "detalle": "Último día de clases sector privado (Mineduc)",
+   "fuente": "https://agn.gt/calendario-escolar-2026-fechas-clave-a-tomar-en-cuenta-durante-el-2026/"
+  },
+  {
+   "inicio": "2026-10-20",
+   "cat": "feriado",
+   "titulo": "Día de la Revolución",
+   "detalle": "Martes; asueto nacional con goce de salario",
+   "fuente": "https://emisorasunidas.com/farandula/2026/07/28/que-asuetos-y-feriados-quedan-pendientes-en-guatemala-en-el-2026/"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; celebración no oficial, disfraces y dulces",
+   "confirmado": false,
+   "fuente": "https://emisorasunidas.com/farandula/2026/07/28/que-asuetos-y-feriados-quedan-pendientes-en-guatemala-en-el-2026/"
+  },
+  {
+   "inicio": "2026-11-13",
+   "cat": "escolar",
+   "titulo": "Fin de clases sector público",
+   "detalle": "Último día plan diario; inician vacaciones",
+   "fuente": "https://agn.gt/calendario-escolar-2026-fechas-clave-a-tomar-en-cuenta-durante-el-2026/"
+  },
+  {
+   "inicio": "2026-11-26",
+   "cat": "deporte",
+   "titulo": "Guatemala City Marathon (Sweep)",
+   "detalle": "Cd. Guatemala, 42K; reto internacional, cupo 20",
+   "fuente": "https://raceroster.com/events/2026/118616/guatemala-city-guatemala-marathon-11262026"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; ofertas en centros comerciales y online",
+   "fuente": "https://www.prensalibre.com/tema/black-friday/"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas online, adopción local variable",
+   "confirmado": false,
+   "fuente": "https://www.prensalibre.com/tema/black-friday/"
+  },
+  {
+   "inicio": "2026-12-15",
+   "cat": "pagos",
+   "titulo": "Aguinaldo (límite 1er 50%)",
+   "detalle": "Primera quincena dic.; 2do 50% en enero",
+   "fuente": "https://www.g-talent.net/blogs/recursos-humanos/aguinaldo-guatemala-2026-calculo-fechas-planilla"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "feriado",
+   "titulo": "Nochebuena (medio día asueto)",
+   "detalle": "Jueves; asueto desde el mediodía",
+   "fuente": "https://emisorasunidas.com/farandula/2026/07/28/que-asuetos-y-feriados-quedan-pendientes-en-guatemala-en-el-2026/"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Viernes; fin de semana largo hasta el 27",
+   "fuente": "https://emisorasunidas.com/farandula/2026/07/28/que-asuetos-y-feriados-quedan-pendientes-en-guatemala-en-el-2026/"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "deporte",
+   "titulo": "Carrera San Silvestre",
+   "detalle": "Cd. Guatemala, ~10K, Estadio Doroteo Guamuch",
+   "fuente": "https://emisorasunidas.com/deportes/2026/01/24/las-carreras-mas-importantes-en-guatemala-para-el-2026/"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "feriado",
+   "titulo": "Fin de Año (medio día asueto)",
+   "detalle": "Jueves; asueto desde el mediodía",
+   "fuente": "https://emisorasunidas.com/farandula/2026/07/28/que-asuetos-y-feriados-quedan-pendientes-en-guatemala-en-el-2026/"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Asueto; viernes",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-01-31",
+   "cat": "pagos",
+   "titulo": "Aguinaldo 2026: 2.º 50 % (límite)",
+   "detalle": "Segunda mitad, 16–31 de enero",
+   "fuente": "https://livinginguatemala.com/es/tramites/aguinaldo-explicado-paso-a-paso/"
+  },
+  {
+   "inicio": "2027-01-31",
+   "cat": "deporte",
+   "titulo": "Medio Maratón Max Tott",
+   "detalle": "21K Ciudad de Guatemala; último dom. de enero",
+   "confirmado": false,
+   "fuente": "https://emisorasunidas.com/deportes/2026/01/24/las-carreras-mas-importantes-en-guatemala-para-el-2026/"
+  },
+  {
+   "inicio": "2027-02-01",
+   "cat": "escolar",
+   "titulo": "Inicio de clases Mineduc 2027",
+   "detalle": "Estimado según 2026 (2 feb); sin publicar",
+   "confirmado": false,
+   "fuente": "https://lahora.gt/nacionales/dleon/2025/11/10/regreso-a-clases-2026-mineduc-ya-tiene-fechas-de-inicio/"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "Día del Cariño",
+   "detalle": "Domingo; no es asueto",
+   "fuente": "https://livinginguatemala.com/es/eventos/"
+  },
+  {
+   "inicio": "2027-03-22",
+   "fin": "2027-03-26",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Semana Santa",
+   "detalle": "Plan internacional 22–28 mar (AM 3149-2026)",
+   "confirmado": false,
+   "fuente": "https://livinginguatemala.com/es/tramites/calendario-escolar-mineduc/"
+  },
+  {
+   "inicio": "2027-03-25",
+   "cat": "feriado",
+   "titulo": "Jueves Santo",
+   "detalle": "Asueto",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo",
+   "detalle": "Asueto",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-03-27",
+   "cat": "feriado",
+   "titulo": "Sábado Santo",
+   "detalle": "Asueto por art. 127 del Código de Trabajo",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-04-24",
+   "cat": "deporte",
+   "titulo": "10K Nocturna Ciudad de Guatemala",
+   "detalle": "Municipalidad; estimado según 2026 (25 abr)",
+   "confirmado": false,
+   "fuente": "https://lahora.gt/secciones-para-ti/deportes/jcortega/2026/02/25/municipalidad-de-guatemala-confirma-carreras-de-10k-21k-y-42k-estas-son-las-fechas-y-rutas/"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajo",
+   "detalle": "Asueto; cae sábado, no se traslada",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-05-10",
+   "cat": "comercio",
+   "titulo": "Día de la Madre",
+   "detalle": "Lunes; asueto para madres trabajadoras",
+   "fuente": "https://livinginguatemala.com/es/eventos/"
+  },
+  {
+   "inicio": "2027-05-30",
+   "cat": "deporte",
+   "titulo": "Media Maratón Internacional de Cobán",
+   "detalle": "21K Cobán; estimado (último dom. de mayo)",
+   "confirmado": false,
+   "fuente": "https://agn.gt/media-maraton-internacional-de-coban-proyecta-generar-mas-de-27-5-millones-de-quetzales"
+  },
+  {
+   "inicio": "2027-06-17",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Jueves (fecha fija en Guatemala)",
+   "fuente": "https://livinginguatemala.com/es/eventos/"
+  },
+  {
+   "inicio": "2027-06-24",
+   "fin": "2027-07-02",
+   "cat": "escolar",
+   "titulo": "Vacaciones de medio año",
+   "detalle": "Estimado según 2026 (24 jun–3 jul)",
+   "confirmado": false,
+   "fuente": "https://lahora.gt/nacionales/dguzman/2026/05/28/cuando-empiezan-las-vacaciones-de-medio-ano-estas-son-fechas-de-descanso-y-retorno-a-clases-establecidas-por-mineduc/"
+  },
+  {
+   "inicio": "2027-06-28",
+   "cat": "feriado",
+   "titulo": "Día del Ejército (traslado)",
+   "detalle": "30 jun cae miércoles; se goza lunes 28",
+   "confirmado": false,
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-07-15",
+   "cat": "pagos",
+   "titulo": "Bono 14 (límite)",
+   "detalle": "1.ª quincena de julio; Decreto 42-92; jueves",
+   "fuente": "https://livinginguatemala.com/es/tramites/bono-14-calculadora/"
+  },
+  {
+   "inicio": "2027-08-22",
+   "cat": "deporte",
+   "titulo": "21K y 42K Ciudad de Guatemala",
+   "detalle": "Municipalidad; estimado según 2026 (23 ago)",
+   "confirmado": false,
+   "fuente": "https://lahora.gt/secciones-para-ti/deportes/jcortega/2026/02/25/municipalidad-de-guatemala-confirma-carreras-de-10k-21k-y-42k-estas-son-las-fechas-y-rutas/"
+  },
+  {
+   "inicio": "2027-09-15",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Asueto; miércoles",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-10-01",
+   "cat": "comercio",
+   "titulo": "Día del Niño",
+   "detalle": "Viernes; no es asueto",
+   "fuente": "https://livinginguatemala.com/es/eventos/"
+  },
+  {
+   "inicio": "2027-10-15",
+   "cat": "escolar",
+   "titulo": "Fin de clases colegios privados",
+   "detalle": "Plan anual diario; estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://lahora.gt/nacionales/dguzman/2026/05/28/cuando-empiezan-las-vacaciones-de-medio-ano-estas-son-fechas-de-descanso-y-retorno-a-clases-establecidas-por-mineduc/"
+  },
+  {
+   "inicio": "2027-10-18",
+   "fin": "2027-10-22",
+   "cat": "comercio",
+   "titulo": "CyberDays Guatemala",
+   "detalle": "Cámara de Comercio; estimado (2026: 19–23 oct)",
+   "confirmado": false,
+   "fuente": "https://newsinamerica.com/pdcc/noticias/economia/2026/cyberdays-2026-transforma-la-temporada-previa-a-fin-de-ano-para-conectar-marcas-y-consumidores-en-linea/"
+  },
+  {
+   "inicio": "2027-10-20",
+   "cat": "feriado",
+   "titulo": "Día de la Revolución",
+   "detalle": "Asueto; miércoles, no se traslada",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://www.timeanddate.com/holidays/guatemala/halloween"
+  },
+  {
+   "inicio": "2027-11-12",
+   "cat": "escolar",
+   "titulo": "Fin de clases sector público",
+   "detalle": "Plan anual diario; estimado (2026: 13 nov)",
+   "confirmado": false,
+   "fuente": "https://lahora.gt/nacionales/dguzman/2026/05/28/cuando-empiezan-las-vacaciones-de-medio-ano-estas-son-fechas-de-descanso-y-retorno-a-clases-establecidas-por-mineduc/"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday (Viernes Negro)",
+   "detalle": "Viernes",
+   "fuente": "https://livinginguatemala.com/es/eventos/"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes",
+   "fuente": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+   "inicio": "2027-12-15",
+   "cat": "pagos",
+   "titulo": "Aguinaldo: 1.er 50 % (límite)",
+   "detalle": "1.ª quincena de diciembre; miércoles",
+   "fuente": "https://livinginguatemala.com/es/tramites/aguinaldo-explicado-paso-a-paso/"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "feriado",
+   "titulo": "Nochebuena",
+   "detalle": "Asueto desde mediodía; viernes",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Asueto; cae sábado, no se traslada",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "deporte",
+   "titulo": "Carrera San Silvestre",
+   "detalle": "Ciudad de Guatemala y departamentos",
+   "confirmado": false,
+   "fuente": "https://emisorasunidas.com/deportes/2026/01/24/las-carreras-mas-importantes-en-guatemala-para-el-2026/"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "feriado",
+   "titulo": "Fin de año",
+   "detalle": "Asueto desde mediodía; viernes",
+   "fuente": "https://livinginguatemala.com/es/feriados-2027/"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

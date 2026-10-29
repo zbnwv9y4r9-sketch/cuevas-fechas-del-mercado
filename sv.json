@@ -1,0 +1,329 @@
+{
+ "pais": "El Salvador",
+ "codigo": "sv",
+ "region": "Centroamérica",
+ "eventos": [
+  {
+   "inicio": "2026-10-01",
+   "cat": "comercio",
+   "titulo": "Día del Niño",
+   "detalle": "Jueves; regalos y juguetes",
+   "fuente": "https://calendarific.com/holidays/2026/SV"
+  },
+  {
+   "inicio": "2026-10-01",
+   "fin": "2026-12-20",
+   "cat": "pagos",
+   "titulo": "Período de pago de aguinaldo",
+   "detalle": "Del 1 oct al 20 dic de 2026",
+   "fuente": "https://www.elsalvador.com/?p=1296472"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; inicia fin de semana largo",
+   "fuente": "https://www.eldiariodehoy.com/noticias/nacionales/asuetos-fines-de-semana-largos/80363/2026/"
+  },
+  {
+   "inicio": "2026-11-01",
+   "cat": "comercio",
+   "titulo": "Inicio temporada Black Friday",
+   "detalle": "Cadenas lanzan promociones desde 1 nov (2025)",
+   "confirmado": false,
+   "fuente": "https://www.elsalvador.com/dinero-y-negocios/vision-empresarial/black-friday-el-salvador-ofertas-promociones/1251048/2025/"
+  },
+  {
+   "inicio": "2026-11-02",
+   "cat": "feriado",
+   "titulo": "Día de los Difuntos",
+   "detalle": "Lunes; asueto nacional, fin de semana largo",
+   "fuente": "https://www.eldiariodehoy.com/noticias/nacionales/asuetos-fines-de-semana-largos/80363/2026/"
+  },
+  {
+   "inicio": "2026-11-13",
+   "cat": "escolar",
+   "titulo": "Fin de clases sector público",
+   "detalle": "Viernes; cierre año lectivo 2026 (MINED)",
+   "fuente": "https://www.elsalvador.com/?p=1295885"
+  },
+  {
+   "inicio": "2026-11-15",
+   "cat": "deporte",
+   "titulo": "Carrera Alegría 2026",
+   "detalle": "Alegría, Usulután; 30K, 15K, 8K y 1K",
+   "fuente": "https://www.elsalvador.com/?p=1294949"
+  },
+  {
+   "inicio": "2026-11-20",
+   "cat": "deporte",
+   "titulo": "San Salvador Marathon (Sweep)",
+   "detalle": "San Salvador, 42K; reto internacional, cupo 20",
+   "fuente": "https://raceroster.com/events/2026/118607/san-salvador-el-salvador-marathon-11202026"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; Defensoría vigila ofertas",
+   "fuente": "https://diario.elmundo.sv/economia/el-45-de-salvadorenos-hara-compras-en-el-black-friday-segun-encuesta"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas online, adopción local variable",
+   "confirmado": false,
+   "fuente": "https://www.elsalvador.com/dinero-y-negocios/vision-empresarial/black-friday-el-salvador-ofertas-promociones/1251048/2025/"
+  },
+  {
+   "inicio": "2026-12-20",
+   "cat": "pagos",
+   "titulo": "Aguinaldo (fecha límite)",
+   "detalle": "Domingo; límite legal de pago",
+   "fuente": "https://www.elsalvador.com/?p=1296472"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Jueves; no es asueto nacional",
+   "fuente": "https://www.eldiariodehoy.com/noticias/nacionales/asuetos-fines-de-semana-largos/80363/2026/"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Viernes; asueto nacional, finde largo al 27",
+   "fuente": "https://www.eldiariodehoy.com/noticias/nacionales/asuetos-fines-de-semana-largos/80363/2026/"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de Año",
+   "detalle": "Jueves; no es asueto nacional",
+   "fuente": "https://www.eldiariodehoy.com/noticias/nacionales/asuetos-fines-de-semana-largos/80363/2026/"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Asueto; viernes",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-02-01",
+   "cat": "escolar",
+   "titulo": "Inicio año escolar 2027",
+   "detalle": "Estimado según 2026 (lun. 2 feb); sin publicar",
+   "confirmado": false,
+   "fuente": "https://elsalvadorinenglish.com/2026/02/02/el-salvador-opens-2026-school-year-with-nationwide-distribution-of-free-student-supplies/"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "Día del Amor y la Amistad",
+   "detalle": "Domingo",
+   "fuente": "https://www.timeanddate.com/holidays/el-salvador/valentine-day"
+  },
+  {
+   "inicio": "2027-03-22",
+   "fin": "2027-03-26",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Semana Santa",
+   "detalle": "Estimado según 2026; regreso ~30 mar",
+   "confirmado": false,
+   "fuente": "https://www.elsalvador.com/?p=1257944"
+  },
+  {
+   "inicio": "2027-03-25",
+   "cat": "feriado",
+   "titulo": "Jueves Santo",
+   "detalle": "Asueto (art. 190 Código de Trabajo)",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo",
+   "detalle": "Asueto",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-03-27",
+   "cat": "feriado",
+   "titulo": "Sábado Santo",
+   "detalle": "Asueto",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-04-25",
+   "cat": "deporte",
+   "titulo": "Mi Banco Media Maratón",
+   "detalle": "21K/10K/5K San Salvador; estimado (2024: 28 abr)",
+   "confirmado": false,
+   "fuente": "https://www.elsalvador.com/?p=1139411"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajador",
+   "detalle": "Asueto; cae sábado",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-05-10",
+   "cat": "feriado",
+   "titulo": "Día de la Madre",
+   "detalle": "Asueto y pico comercial; lunes",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-06-17",
+   "cat": "feriado",
+   "titulo": "Día del Padre",
+   "detalle": "Asueto y fecha comercial; jueves",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "deporte",
+   "titulo": "El Salvador Olympic Run",
+   "detalle": "1K–10K Centro Histórico; estimado (2026: 21 jun)",
+   "confirmado": false,
+   "fuente": "https://www.elsalvador.com/?p=1275991"
+  },
+  {
+   "inicio": "2027-08-01",
+   "fin": "2027-08-06",
+   "cat": "escolar",
+   "titulo": "Vacaciones agostinas",
+   "detalle": "Sin clases 1–6 ago; estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://www.elsalvador.com/?p=1257944"
+  },
+  {
+   "inicio": "2027-08-03",
+   "cat": "feriado",
+   "titulo": "Fiestas agostinas (San Salvador)",
+   "detalle": "Asueto sector privado en San Salvador; martes",
+   "fuente": "https://www.elsalvador.com/?p=1284556"
+  },
+  {
+   "inicio": "2027-08-05",
+   "cat": "feriado",
+   "titulo": "Fiestas agostinas (San Salvador)",
+   "detalle": "Asueto sector privado en San Salvador; jueves",
+   "fuente": "https://www.elsalvador.com/?p=1284556"
+  },
+  {
+   "inicio": "2027-08-06",
+   "cat": "feriado",
+   "titulo": "Fiestas agostinas (nacional)",
+   "detalle": "Asueto nacional; viernes",
+   "fuente": "https://www.elsalvador.com/?p=1284556"
+  },
+  {
+   "inicio": "2027-08-08",
+   "cat": "deporte",
+   "titulo": "LifeMiles 21K San Salvador",
+   "detalle": "21K; estimado según 2026 (9 ago)",
+   "confirmado": false,
+   "fuente": "https://app.endorphinsrunning.com/races/lifemiles-21k-san-salvador-san-salvador"
+  },
+  {
+   "inicio": "2027-09-05",
+   "cat": "deporte",
+   "titulo": "Sivar Run",
+   "detalle": "1K–10K San Salvador; estimado (inicios sept)",
+   "confirmado": false,
+   "fuente": "https://www.elsalvador.com/noticias/nacional/sivar-run-deporte-san-salvador/1291899/2026/"
+  },
+  {
+   "inicio": "2027-09-15",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Asueto; miércoles",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-10-01",
+   "cat": "comercio",
+   "titulo": "Día del Niño",
+   "detalle": "Viernes; no es asueto",
+   "fuente": "https://www.timeanddate.com/holidays/el-salvador/childrens-day"
+  },
+  {
+   "inicio": "2027-10-20",
+   "cat": "pagos",
+   "titulo": "Abre ventana de pago del aguinaldo",
+   "detalle": "Del 20 oct al 20 dic (art. 200 reformado)",
+   "fuente": "https://diario.elmundo.sv/politica/adelanto-de-aguinaldos-pensiones-de-navidad-y-cuotas-alimenticias-esto-es-lo-que-se-aprobo"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://www.timeanddate.com/holidays/el-salvador/halloween"
+  },
+  {
+   "inicio": "2027-11-02",
+   "cat": "feriado",
+   "titulo": "Día de los Difuntos",
+   "detalle": "Asueto; martes",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-11-12",
+   "cat": "escolar",
+   "titulo": "Cierre del año escolar",
+   "detalle": "Estimado según 2026 (13 nov)",
+   "confirmado": false,
+   "fuente": "https://www.elsalvador.com/?p=1257944"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes",
+   "fuente": "https://www.elsalvador.com/dinero-y-negocios/vision-empresarial/black-friday-el-salvador-ofertas-promociones/1251048/2025/"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes",
+   "fuente": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+   "inicio": "2027-12-20",
+   "cat": "pagos",
+   "titulo": "Aguinaldo (fecha límite)",
+   "detalle": "Lunes; cierre ventana 20 oct–20 dic",
+   "fuente": "https://diario.elmundo.sv/politica/adelanto-de-aguinaldos-pensiones-de-navidad-y-cuotas-alimenticias-esto-es-lo-que-se-aprobo"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de ventas",
+   "fuente": "https://www.timeanddate.com/holidays/el-salvador/christmas-eve"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Asueto; cae sábado",
+   "fuente": "https://diario.elmundo.sv/economia/que-dias-son-los-asuetos-remunerados-en-2025"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes",
+   "fuente": "https://www.timeanddate.com/holidays/el-salvador/new-year-eve"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

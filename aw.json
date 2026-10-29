@@ -1,0 +1,313 @@
+{
+ "pais": "Aruba",
+ "codigo": "aw",
+ "region": "Caribe",
+ "eventos": [
+  {
+   "inicio": "2026-10-18",
+   "cat": "deporte",
+   "titulo": "2nd WEB Walk & Run",
+   "detalle": "Balashi, Oranjestad; 5K + carreras infantiles",
+   "fuente": "https://raceroster.com/events/2026/138963/2nd-web-walk-and-run-2026"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Fiestas y disfraces; celebración menor (sábado)",
+   "fuente": "https://calendarific.com/holidays/2026/AW"
+  },
+  {
+   "inicio": "2026-11-15",
+   "cat": "deporte",
+   "titulo": "9th Diabetes Run & Walk",
+   "detalle": "Oranjestad; 10K, 5K y carreras infantiles",
+   "fuente": "https://raceroster.com/events/2026/138958/9th-diabetes-run-and-walk-2026"
+  },
+  {
+   "inicio": "2026-11-15",
+   "cat": "comercio",
+   "titulo": "Llegada de Sinterklaas",
+   "detalle": "Fecha estimada (2025 fue dom 16 nov); sin anuncio 2026",
+   "confirmado": false,
+   "fuente": "https://www.gobierno.aw/en/sinterklaas-and-his-helpers-arrive-on-sunday-november-16-2025"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Ofertas turísticas y retail local",
+   "fuente": "https://www.aruba.com/nl/black-friday-deals"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Compras online; ofertas turísticas",
+   "fuente": "https://www.aruba.com/nl/black-friday-deals"
+  },
+  {
+   "inicio": "2026-12-01",
+   "fin": "2026-12-31",
+   "cat": "pagos",
+   "titulo": "Bono de fin de año (13.º mes)",
+   "detalle": "Común por convenio, no obligatorio por ley",
+   "confirmado": false,
+   "fuente": "https://www.rivermate.com/guides/aruba/salary"
+  },
+  {
+   "inicio": "2026-12-05",
+   "cat": "comercio",
+   "titulo": "Sinterklaas (Sint Nicolaas)",
+   "detalle": "No feriado; regalos infantiles y compras",
+   "fuente": "https://www.gobierno.aw/en/sinterklaas-and-his-pieten-have-arrived-in-aruba"
+  },
+  {
+   "inicio": "2026-12-19",
+   "fin": "2027-01-03",
+   "cat": "escolar",
+   "titulo": "Vacaciones escolares de Navidad",
+   "detalle": "Estimado; PDF oficial 2026-27 no legible",
+   "confirmado": false,
+   "fuente": "https://www.ea.aw/pages/schoolvakanties-pdf/"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Último día fuerte de compras navideñas",
+   "fuente": "https://www.officeholidays.com/countries/aruba/2026"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado nacional (viernes)",
+   "fuente": "https://www.officeholidays.com/countries/aruba/2026"
+  },
+  {
+   "inicio": "2026-12-26",
+   "cat": "feriado",
+   "titulo": "Segundo día de Navidad",
+   "detalle": "Feriado nacional (sábado); sin traslado",
+   "fuente": "https://www.officeholidays.com/countries/aruba/2026"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "No feriado oficial; fuegos y compras de víspera",
+   "fuente": "https://holidaydb.com/guides/public-holidays/aruba/2026"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Feriado oficial, viernes",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-01-02",
+   "fin": "2027-02-08",
+   "cat": "comercio",
+   "titulo": "Temporada de Carnaval",
+   "detalle": "Desfiles desde ene; estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://www.aruba.com/es/carnaval-2026"
+  },
+  {
+   "inicio": "2027-01-25",
+   "cat": "feriado",
+   "titulo": "Día de Betico Croes",
+   "detalle": "Feriado oficial, lunes",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-02-07",
+   "cat": "comercio",
+   "titulo": "Gran Parada de Carnaval",
+   "detalle": "Oranjestad; domingo previo a Ceniza (est.)",
+   "confirmado": false,
+   "fuente": "https://www.aruba.com/es/carnaval-2026"
+  },
+  {
+   "inicio": "2027-02-08",
+   "cat": "feriado",
+   "titulo": "Lunes de Carnaval",
+   "detalle": "Feriado oficial tras la Gran Parada",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "San Valentín",
+   "detalle": "Domingo",
+   "fuente": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+  },
+  {
+   "inicio": "2027-03-18",
+   "cat": "feriado",
+   "titulo": "Día del Himno y la Bandera",
+   "detalle": "Feriado oficial, jueves",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-03-21",
+   "cat": "deporte",
+   "titulo": "Aruba International Half Marathon",
+   "detalle": "San Nicolas–Oranjestad; 21K y relevo. Est.",
+   "confirmado": false,
+   "fuente": "https://raceroster.com/events/2026/113246/40th-aruba-international-half-marathon-2026"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo",
+   "detalle": "Feriado oficial",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-03-29",
+   "cat": "feriado",
+   "titulo": "Lunes de Pascua",
+   "detalle": "Feriado oficial",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-04-27",
+   "cat": "feriado",
+   "titulo": "Día del Rey",
+   "detalle": "Feriado oficial, martes",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajo",
+   "detalle": "Sábado",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-05-06",
+   "cat": "feriado",
+   "titulo": "Día de la Ascensión",
+   "detalle": "Feriado oficial, jueves",
+   "fuente": "https://qppstudio.net/publicholidays2027/aruba.htm"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de la Madre",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+  },
+  {
+   "inicio": "2027-06-05",
+   "fin": "2027-06-06",
+   "cat": "deporte",
+   "titulo": "KLM Aruba Marathon",
+   "detalle": "Palm Beach; 42K, 21K, 10K, 5K. Est. 2026",
+   "confirmado": false,
+   "fuente": "https://www.visitaruba.com/things-to-do/aruba-events/klm-aruba-marathon/"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://en.wikipedia.org/wiki/Father%27s_Day"
+  },
+  {
+   "inicio": "2027-07-02",
+   "cat": "escolar",
+   "titulo": "Fin de clases / vacaciones verano",
+   "detalle": "Aprox. según patrón; calendario MinEdu",
+   "confirmado": false,
+   "fuente": "https://www.ea.aw/pages/schoolvakanties-pdf/"
+  },
+  {
+   "inicio": "2027-07-19",
+   "fin": "2027-08-15",
+   "cat": "comercio",
+   "titulo": "Temporada regreso a clases",
+   "detalle": "Uniformes y calzado; estimado",
+   "confirmado": false,
+   "fuente": "https://noticiacla.com/news/39636"
+  },
+  {
+   "inicio": "2027-08-16",
+   "cat": "escolar",
+   "titulo": "Inicio año escolar 2027-28",
+   "detalle": "Estimado según 2026 (mediados de agosto)",
+   "confirmado": false,
+   "fuente": "https://noticiacla.com/news/39636"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://en.wikipedia.org/wiki/Halloween"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; Aruba Black Friday en tiendas",
+   "fuente": "https://www.aruba.com/es/noticias/se-acerca-aruba-black-friday"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas online",
+   "fuente": "https://en.wikipedia.org/wiki/Cyber_Monday"
+  },
+  {
+   "inicio": "2027-12-01",
+   "fin": "2027-12-31",
+   "cat": "pagos",
+   "titulo": "Pago 13.er mes (costumbre/CAO)",
+   "detalle": "No obligatorio por ley; usual en diciembre",
+   "confirmado": false,
+   "fuente": "https://rivermate.com/guides/aruba/salary"
+  },
+  {
+   "inicio": "2027-12-17",
+   "cat": "escolar",
+   "titulo": "Inicio vacaciones de Navidad",
+   "detalle": "Aprox. según patrón; hasta inicios de ene",
+   "confirmado": false,
+   "fuente": "https://www.ea.aw/pages/schoolvakanties-pdf/"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de compras navideñas",
+   "fuente": "https://holidaydb.com/guides/public-holidays/aruba/2027"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Sábado; sin traslado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/aruba/2027"
+  },
+  {
+   "inicio": "2027-12-26",
+   "cat": "feriado",
+   "titulo": "Segundo día de Navidad",
+   "detalle": "Domingo; sin traslado",
+   "fuente": "https://holidaydb.com/guides/public-holidays/aruba/2027"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; víspera de Año Nuevo",
+   "fuente": "https://holidaydb.com/guides/public-holidays/aruba/2027"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

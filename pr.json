@@ -1,0 +1,418 @@
+{
+ "pais": "Puerto Rico",
+ "codigo": "pr",
+ "region": "Caribe",
+ "eventos": [
+  {
+   "inicio": "2026-10-04",
+   "cat": "deporte",
+   "titulo": "Race for the Cure Puerto Rico 2026",
+   "detalle": "San Juan; carrera/caminata benéfica",
+   "fuente": "https://www.plateapr.com/calendario-de-maratones-5k-y-10k-en-puerto-rico"
+  },
+  {
+   "inicio": "2026-10-11",
+   "cat": "deporte",
+   "titulo": "Medio Maratón de Puerto Rico (58.ª ed.)",
+   "detalle": "Villalba; 21K. Sin patrocinio Nike conocido",
+   "fuente": "https://www.plateapr.com/calendario-de-maratones-5k-y-10k-en-puerto-rico"
+  },
+  {
+   "inicio": "2026-10-12",
+   "cat": "feriado",
+   "titulo": "Día de la Raza (Colón)",
+   "detalle": "Feriado oficial; sin clases en escuelas públicas",
+   "fuente": "https://de.pr.gov/calendario-escolar/"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; disfraces, dulces y fiestas",
+   "fuente": "https://www.timeanddate.com/holidays/us/halloween"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "deporte",
+   "titulo": "Nightmare Brusi Beach 5K",
+   "detalle": "Camuy; 5K nocturno de Halloween",
+   "fuente": "https://www.plateapr.com/calendario-de-maratones-5k-y-10k-en-puerto-rico"
+  },
+  {
+   "inicio": "2026-11-11",
+   "cat": "feriado",
+   "titulo": "Día del Veterano",
+   "detalle": "Feriado oficial (miércoles)",
+   "fuente": "https://plateapr.com/dias-feriados-puerto-rico/"
+  },
+  {
+   "inicio": "2026-11-15",
+   "fin": "2026-12-15",
+   "cat": "pagos",
+   "titulo": "Ventana de pago del bono de Navidad",
+   "detalle": "Ley 148-1969: sector privado paga 15 nov–15 dic",
+   "fuente": "https://www.metro.pr/noticias/2025/11/14/comienza-el-periodo-para-pagar-el-bono-de-navidad-trabajo-advierte-a-patronos-sobre-requisitos-y-plazos/"
+  },
+  {
+   "inicio": "2026-11-19",
+   "cat": "feriado",
+   "titulo": "Descubrimiento de PR / Puertorriqueñidad",
+   "detalle": "Feriado oficial (jueves); posible puente viernes",
+   "fuente": "https://plateapr.com/dias-feriados-puerto-rico/"
+  },
+  {
+   "inicio": "2026-11-25",
+   "cat": "pagos",
+   "titulo": "Bono de Navidad empleados públicos (est.)",
+   "detalle": "2024 y 2025 se pagó antes de Acción de Gracias",
+   "confirmado": false,
+   "fuente": "https://www.metro.pr/noticias/2025/11/23/anuncian-bono-de-navidad-y-dias-libres-para-empleados-publicos/"
+  },
+  {
+   "inicio": "2026-11-26",
+   "cat": "feriado",
+   "titulo": "Día de Acción de Gracias",
+   "detalle": "Feriado; mayoría de comercios cerrados",
+   "fuente": "https://plateapr.com/dias-feriados-puerto-rico/"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday (Viernes Negro)",
+   "detalle": "Mayor día de ventas; malls abren ~6:00 a.m.",
+   "fuente": "https://www.plateapr.com/a-que-hora-abren-las-tiendas-este-black-friday/"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "escolar",
+   "titulo": "Receso académico post Acción de Gracias",
+   "detalle": "Sin clases en escuelas públicas",
+   "fuente": "https://de.pr.gov/calendario-escolar/"
+  },
+  {
+   "inicio": "2026-11-28",
+   "cat": "comercio",
+   "titulo": "Small Business Saturday",
+   "detalle": "Compras en comercio local tras Black Friday",
+   "fuente": "https://www.sba.gov/"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Ofertas en línea",
+   "fuente": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+   "inicio": "2026-12-15",
+   "cat": "pagos",
+   "titulo": "Fecha límite bono de Navidad (privado)",
+   "detalle": "Último día legal para pagar el bono",
+   "fuente": "https://www.metro.pr/noticias/2025/11/14/comienza-el-periodo-para-pagar-el-bono-de-navidad-trabajo-advierte-a-patronos-sobre-requisitos-y-plazos/"
+  },
+  {
+   "inicio": "2026-12-22",
+   "cat": "escolar",
+   "titulo": "Fin del primer semestre escolar",
+   "detalle": "Último día de clases; regreso 11 ene 2027",
+   "fuente": "https://de.pr.gov/calendario-escolar/"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Pico de compras de última hora; cierre temprano",
+   "fuente": "https://www.timeanddate.com/holidays/us/christmas-eve"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado; cierre total de comercios por ley",
+   "fuente": "https://www.trabajo.pr.gov/docs/Normas_del_Trabajo/Leyes/Ley_Num_143_de_16_noviembre_2009_Enmienda_Ley.pdf"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Despedida de año",
+   "detalle": "Compras de fiesta; ent. públicos medio día (2025)",
+   "fuente": "https://www.metro.pr/noticias/2025/11/23/anuncian-bono-de-navidad-y-dias-libres-para-empleados-publicos/"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Viernes",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-01-06",
+   "cat": "feriado",
+   "titulo": "Día de Reyes",
+   "detalle": "Miércoles; fuerte en regalos",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-01-08",
+   "fin": "2027-01-09",
+   "cat": "comercio",
+   "titulo": "Venta sin IVU (materiales escolares)",
+   "detalle": "Vie–sáb; incluye uniformes y su calzado",
+   "fuente": "https://www.metro.pr/noticias/2026/06/22/conoce-los-materiales-escolares-que-estaran-exentos-del-ivu/"
+  },
+  {
+   "inicio": "2027-01-11",
+   "cat": "escolar",
+   "titulo": "Regreso a clases (2.º semestre)",
+   "detalle": "Lunes; escuelas públicas (DE)",
+   "fuente": "https://agendahero.com/page/pr-puerto-rico-department-of-education-2026-27"
+  },
+  {
+   "inicio": "2027-01-18",
+   "cat": "feriado",
+   "titulo": "Natalicio de Martin Luther King, Jr.",
+   "detalle": "Tercer lunes de enero",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "Día de San Valentín",
+   "detalle": "Domingo",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-02-15",
+   "cat": "feriado",
+   "titulo": "Día de los Presidentes y de los Próceres",
+   "detalle": "Tercer lunes de febrero",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-03-02",
+   "cat": "feriado",
+   "titulo": "Día de la Ciudadanía Americana",
+   "detalle": "Martes",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-03-07",
+   "cat": "deporte",
+   "titulo": "Medio Maratón San Blas (65.ª edición)",
+   "detalle": "21.0975 km, Coamo; domingo",
+   "fuente": "https://www.primerahora.com/deportes/otros/notas/el-medio-maraton-san-blas-de-coamo-abre-sus-inscripciones-para-su-edicion-de-marzo-de-2027/"
+  },
+  {
+   "inicio": "2027-03-22",
+   "cat": "feriado",
+   "titulo": "Día de la Abolición de la Esclavitud",
+   "detalle": "Lunes",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-03-25",
+   "cat": "escolar",
+   "titulo": "Receso académico Semana Santa",
+   "detalle": "Jueves; escuelas públicas (DE)",
+   "fuente": "https://agendahero.com/page/pr-puerto-rico-department-of-education-2026-27"
+  },
+  {
+   "inicio": "2027-03-26",
+   "cat": "feriado",
+   "titulo": "Viernes Santo",
+   "detalle": "Viernes; cierre comercial (Ley de cierre)",
+   "fuente": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/"
+  },
+  {
+   "inicio": "2027-03-28",
+   "cat": "comercio",
+   "titulo": "Domingo de Pascua: cierre comercial",
+   "detalle": "Grandes comercios cierran por ley",
+   "fuente": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "deporte",
+   "titulo": "Teodoro 10K (Puente Teodoro Moscoso)",
+   "detalle": "10K San Juan; estimado según 2026 (sáb 2 may)",
+   "confirmado": false,
+   "fuente": "https://www.plateapr.com/que-saber/carrera-teodoro-10k-todo-lo-que-necesitas-saber"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de las Madres",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/"
+  },
+  {
+   "inicio": "2027-05-28",
+   "cat": "escolar",
+   "titulo": "Último día de clases 2026-2027",
+   "detalle": "Viernes; escuelas públicas (DE)",
+   "fuente": "https://agendahero.com/page/pr-puerto-rico-department-of-education-2026-27"
+  },
+  {
+   "inicio": "2027-05-31",
+   "cat": "feriado",
+   "titulo": "Día de la Recordación (Memorial Day)",
+   "detalle": "Último lunes de mayo",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-06-19",
+   "cat": "feriado",
+   "titulo": "Juneteenth",
+   "detalle": "Sábado; feriado federal",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-06-20",
+   "cat": "comercio",
+   "titulo": "Día de los Padres",
+   "detalle": "Tercer domingo de junio",
+   "fuente": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/"
+  },
+  {
+   "inicio": "2027-07-05",
+   "cat": "feriado",
+   "titulo": "Independencia de EE.UU. (observado)",
+   "detalle": "4 jul cae domingo; se observa lunes 5",
+   "fuente": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/"
+  },
+  {
+   "inicio": "2027-07-16",
+   "fin": "2027-07-17",
+   "cat": "comercio",
+   "titulo": "Venta sin IVU regreso a clases",
+   "detalle": "Estimado según 2026 (17–18 jul); Hacienda",
+   "confirmado": false,
+   "fuente": "https://www.metro.pr/noticias/2026/06/22/conoce-los-materiales-escolares-que-estaran-exentos-del-ivu/"
+  },
+  {
+   "inicio": "2027-07-26",
+   "cat": "feriado",
+   "titulo": "Día de la Constitución (observado)",
+   "detalle": "25 jul cae domingo; se observa lunes 26",
+   "fuente": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/"
+  },
+  {
+   "inicio": "2027-07-27",
+   "cat": "feriado",
+   "titulo": "Natalicio de José Celso Barbosa",
+   "detalle": "Martes",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Puerto_Rico"
+  },
+  {
+   "inicio": "2027-08-01",
+   "fin": "2027-08-31",
+   "cat": "comercio",
+   "titulo": "Temporada back-to-school",
+   "detalle": "Calzado/uniformes; clases inician en agosto",
+   "confirmado": false,
+   "fuente": "https://www.primerahora.com/noticias/puerto-rico/notas/cuando-empiezan-las-clases-este-es-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-08-05",
+   "cat": "escolar",
+   "titulo": "Inicio de clases 2027-2028 (público)",
+   "detalle": "Estimado según 2026 (jue 6 ago)",
+   "confirmado": false,
+   "fuente": "https://www.primerahora.com/noticias/puerto-rico/notas/cuando-empiezan-las-clases-este-es-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-09-06",
+   "cat": "feriado",
+   "titulo": "Día del Trabajo",
+   "detalle": "Primer lunes de septiembre",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-10-11",
+   "cat": "feriado",
+   "titulo": "Día de la Raza",
+   "detalle": "Segundo lunes de octubre",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-11-11",
+   "cat": "feriado",
+   "titulo": "Día del Veterano",
+   "detalle": "Jueves",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-11-15",
+   "fin": "2027-12-15",
+   "cat": "pagos",
+   "titulo": "Ventana de pago del Bono de Navidad",
+   "detalle": "Ley 148-1969; vence miércoles 15 dic",
+   "fuente": "https://www.metro.pr/noticias/2025/11/14/comienza-el-periodo-para-pagar-el-bono-de-navidad-trabajo-advierte-a-patronos-sobre-requisitos-y-plazos/"
+  },
+  {
+   "inicio": "2027-11-19",
+   "cat": "feriado",
+   "titulo": "Día de la Puertorriqueñidad",
+   "detalle": "Viernes; Descubrimiento de PR",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-11-25",
+   "cat": "feriado",
+   "titulo": "Día de Acción de Gracias",
+   "detalle": "Cuarto jueves de noviembre",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; inicio temporada navideña",
+   "fuente": "https://www.metro.pr/noticias/2013/11/25/bono-black-friday-empleados-gobierno"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ventas en línea",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-12-21",
+   "cat": "escolar",
+   "titulo": "Inicio receso de Navidad (aprox.)",
+   "detalle": "Estimado según 2026 (último día 22 dic)",
+   "confirmado": false,
+   "fuente": "https://www.primerahora.com/noticias/puerto-rico/notas/cuando-empiezan-las-clases-este-es-el-calendario-escolar-2026-2027/"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; feriado federal observado de Navidad",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Día de Navidad",
+   "detalle": "Sábado",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; Despedida de año",
+   "fuente": "https://plateapr.com/que-saber/dias-feriados-puerto-rico"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}

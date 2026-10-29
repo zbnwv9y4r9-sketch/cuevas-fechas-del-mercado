@@ -1,0 +1,287 @@
+{
+ "pais": "Honduras",
+ "codigo": "hn",
+ "region": "Centroamérica",
+ "eventos": [
+  {
+   "inicio": "2026-10-05",
+   "fin": "2026-10-09",
+   "cat": "feriado",
+   "titulo": "Semana Morazánica (sector público)",
+   "detalle": "Lun 5 a vie 9 oct; agrupa 3, 12 y 21 oct",
+   "fuente": "https://www.laprensa.hn/honduras/gobierno-oficializa-fechas-feriado-semana-morazanica-2026-ED32200884"
+  },
+  {
+   "inicio": "2026-10-07",
+   "fin": "2026-10-10",
+   "cat": "feriado",
+   "titulo": "Feriado Morazánico (empresa privada)",
+   "detalle": "Mié 7 mediodía a sáb 10 mediodía; bancos cerrados",
+   "fuente": "https://www.elheraldo.hn/honduras/que-dias-descansara-la-empresa-privada-semana-morazanica-2026-segun-el-cohep-PB32009431"
+  },
+  {
+   "inicio": "2026-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Sábado; celebración no oficial",
+   "confirmado": false,
+   "fuente": "https://www.tunota.com/honduras-hoy/que-feriados-faltan-honduras-despues-semana-morazanica-2026-10-09"
+  },
+  {
+   "inicio": "2026-11-08",
+   "cat": "deporte",
+   "titulo": "Blue Run 2026",
+   "detalle": "Tegucigalpa, Villa Olímpica; 10K, 5K y 1.2K",
+   "fuente": "https://www.latribuna.hn/2026/09/09/blue-run-2026-juntos-por-la-diabetes-una-carrera-con-proposito/"
+  },
+  {
+   "inicio": "2026-11-18",
+   "cat": "deporte",
+   "titulo": "Tegucigalpa Marathon (Sweep)",
+   "detalle": "Tegucigalpa, 42K; reto internacional, cupo 20",
+   "fuente": "https://raceroster.com/events/2026/118587/tegucigalpa-honduras-marathon-11182026"
+  },
+  {
+   "inicio": "2026-11-27",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; tiendas extienden a Black Week",
+   "fuente": "https://www.laprensa.hn/economia/tiendas-ofrecen-sus-mejores-descuentos-por-black-week-EDLP770488"
+  },
+  {
+   "inicio": "2026-11-30",
+   "cat": "escolar",
+   "titulo": "Cierre del año escolar",
+   "detalle": "Lunes; entrega de calificaciones finales",
+   "fuente": "https://www.tunota.com/honduras-hoy/cuando-termina-el-ano-escolar-2026-en-honduras-fecha-confirmada-por-educacion-2026-10-05"
+  },
+  {
+   "inicio": "2026-12-01",
+   "cat": "pagos",
+   "titulo": "Aguinaldo sector público",
+   "detalle": "Suele pagarse a inicios de diciembre",
+   "confirmado": false,
+   "fuente": "https://www.elheraldo.hn/economia/aguinaldo-acerca-cual-fecha-limite-para-recibirlo-segun-ley-honduras-pago-FL22830533"
+  },
+  {
+   "inicio": "2026-12-20",
+   "cat": "pagos",
+   "titulo": "Aguinaldo (fecha límite)",
+   "detalle": "Domingo; pago antes del 20 de diciembre",
+   "fuente": "https://www.elheraldo.hn/economia/aguinaldo-acerca-cual-fecha-limite-para-recibirlo-segun-ley-honduras-pago-FL22830533"
+  },
+  {
+   "inicio": "2026-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Jueves; no es feriado nacional",
+   "fuente": "https://www.tunota.com/honduras-hoy/que-feriados-faltan-honduras-despues-semana-morazanica-2026-10-09"
+  },
+  {
+   "inicio": "2026-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Viernes; único feriado obligatorio restante",
+   "fuente": "https://www.tunota.com/honduras-hoy/que-feriados-faltan-honduras-despues-semana-morazanica-2026-10-09"
+  },
+  {
+   "inicio": "2026-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de Año",
+   "detalle": "Jueves; no es feriado nacional",
+   "fuente": "https://www.tunota.com/honduras-hoy/que-feriados-faltan-honduras-despues-semana-morazanica-2026-10-09"
+  },
+  {
+   "inicio": "2027-01-01",
+   "cat": "feriado",
+   "titulo": "Año Nuevo",
+   "detalle": "Feriado nacional, viernes",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-01-04",
+   "fin": "2027-01-31",
+   "cat": "comercio",
+   "titulo": "Temporada de regreso a clases",
+   "detalle": "Compra de uniformes y calzado escolar; estimado",
+   "confirmado": false,
+   "fuente": "https://www.tunota.com/honduras-hoy/cuando-inician-las-clases-en-honduras-2026-en-escuelas-y-colegios-2026-01-14"
+  },
+  {
+   "inicio": "2027-02-01",
+   "cat": "escolar",
+   "titulo": "Inicio del año lectivo 2027",
+   "detalle": "Estimado según 2026 (inició lunes 2 feb)",
+   "confirmado": false,
+   "fuente": "https://www.tunota.com/honduras-hoy/cuando-inician-las-clases-en-honduras-2026-en-escuelas-y-colegios-2026-01-14"
+  },
+  {
+   "inicio": "2027-02-14",
+   "cat": "comercio",
+   "titulo": "Día del Amor y la Amistad",
+   "detalle": "San Valentín, domingo",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-03-19",
+   "cat": "comercio",
+   "titulo": "Día del Padre",
+   "detalle": "En Honduras se celebra el 19 de marzo; viernes",
+   "fuente": "https://www.tunota.com/entretenimiento/cuando-es-el-dia-del-padre-en-honduras-2025-en-honor-al-amor-paterno-2025-03-05_seo_vr"
+  },
+  {
+   "inicio": "2027-03-22",
+   "fin": "2027-03-26",
+   "cat": "escolar",
+   "titulo": "Vacaciones de Semana Santa",
+   "detalle": "Receso escolar; estimado según patrón anual",
+   "confirmado": false,
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-03-25",
+   "fin": "2027-03-27",
+   "cat": "feriado",
+   "titulo": "Semana Santa",
+   "detalle": "Jueves, Viernes y Sábado Santo (25–27 mar)",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-04-14",
+   "cat": "feriado",
+   "titulo": "Día de las Américas",
+   "detalle": "Feriado nacional, miércoles",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-05-01",
+   "cat": "feriado",
+   "titulo": "Día del Trabajador",
+   "detalle": "Feriado nacional, sábado",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-05-09",
+   "cat": "comercio",
+   "titulo": "Día de la Madre",
+   "detalle": "Segundo domingo de mayo",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-06-01",
+   "fin": "2027-06-30",
+   "cat": "pagos",
+   "titulo": "Décimo cuarto mes de salario",
+   "detalle": "Pago legal del 1 al 30 de junio (Decreto 135-94)",
+   "fuente": "https://www.tunota.com/honduras-hoy/cuando-pagan-el-decimocuarto-de-2026-en-honduras-fecha-limite-para-el-catorceavo-2026-06-02"
+  },
+  {
+   "inicio": "2027-06-13",
+   "cat": "deporte",
+   "titulo": "Maratón Internacional La Prensa",
+   "detalle": "San Pedro Sula; 21K y más. Estimado según 2026",
+   "confirmado": false,
+   "fuente": "https://www.laprensa.hn/deportes/se-agota-plazo-para-inscribirse-a-precio-especial-en-maraton-la-prensa-gatorade-KE30168983"
+  },
+  {
+   "inicio": "2027-07-12",
+   "fin": "2027-07-16",
+   "cat": "escolar",
+   "titulo": "Receso escolar de medio año",
+   "detalle": "Estimado según 2026 (13–17 jul)",
+   "confirmado": false,
+   "fuente": "https://www.elheraldo.hn/fotogalerias/cuando-vuelven-clases-estudiantes-tras-receso-academico-2026-NJ31389466"
+  },
+  {
+   "inicio": "2027-09-10",
+   "cat": "comercio",
+   "titulo": "Día del Niño",
+   "detalle": "10 de septiembre, viernes",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-09-15",
+   "cat": "feriado",
+   "titulo": "Día de la Independencia",
+   "detalle": "Feriado nacional, miércoles",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-10-06",
+   "fin": "2027-10-08",
+   "cat": "feriado",
+   "titulo": "Semana Morazánica (Feriado Morazánico)",
+   "detalle": "Mié–vie 1.ª semana oct; agrupa 3, 12 y 21 oct",
+   "confirmado": false,
+   "fuente": "https://www.elheraldo.hn/honduras/feriado-morazanico-honduras-historia-tres-dias-unificados-LI27499389"
+  },
+  {
+   "inicio": "2027-10-31",
+   "cat": "comercio",
+   "titulo": "Halloween",
+   "detalle": "Domingo; fecha comercial",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-11-26",
+   "cat": "comercio",
+   "titulo": "Black Friday",
+   "detalle": "Viernes; tiendas extienden a Black Week",
+   "fuente": "https://www.laprensa.hn/economia/tiendas-ofrecen-sus-mejores-descuentos-por-black-week-EDLP770488"
+  },
+  {
+   "inicio": "2027-11-29",
+   "cat": "comercio",
+   "titulo": "Cyber Monday",
+   "detalle": "Lunes; ofertas en línea",
+   "fuente": "https://www.laprensa.hn/economia/tiendas-ofrecen-sus-mejores-descuentos-por-black-week-EDLP770488"
+  },
+  {
+   "inicio": "2027-11-30",
+   "cat": "escolar",
+   "titulo": "Cierre del año lectivo 2027",
+   "detalle": "Estimado según 2026 (cierre 30 nov)",
+   "confirmado": false,
+   "fuente": "https://www.tunota.com/honduras-hoy/cuando-termina-el-ano-escolar-2026-en-honduras-fecha-confirmada-por-educacion-2026-10-05"
+  },
+  {
+   "inicio": "2027-12-01",
+   "fin": "2027-12-31",
+   "cat": "pagos",
+   "titulo": "Décimo tercer mes (aguinaldo)",
+   "detalle": "Pago legal durante diciembre",
+   "fuente": "https://www.bloomberglinea.com/latinoamerica/honduras/cuando-se-paga-y-como-se-calcula-el-aguinaldo-en-honduras/"
+  },
+  {
+   "inicio": "2027-12-01",
+   "fin": "2027-12-31",
+   "cat": "escolar",
+   "titulo": "Vacaciones de fin de año",
+   "detalle": "Estimado según patrón (clases cierran fin nov)",
+   "confirmado": false,
+   "fuente": "https://www.tunota.com/honduras-hoy/cuando-termina-el-ano-escolar-2026-en-honduras-fecha-confirmada-por-educacion-2026-10-05"
+  },
+  {
+   "inicio": "2027-12-24",
+   "cat": "comercio",
+   "titulo": "Nochebuena",
+   "detalle": "Viernes; pico de ventas navideñas",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-12-25",
+   "cat": "feriado",
+   "titulo": "Navidad",
+   "detalle": "Feriado nacional, sábado",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  },
+  {
+   "inicio": "2027-12-31",
+   "cat": "comercio",
+   "titulo": "Fin de año",
+   "detalle": "Viernes; Nochevieja",
+   "fuente": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"
+  }
+ ],
+ "actualizado": "2026-10-28"
+}
